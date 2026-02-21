@@ -1,0 +1,911 @@
+Classfile /workspace/pesjava/a.class
+  Last modified Feb 21, 2026; size 3496 bytes
+  SHA-256 checksum e7590e7c59b89d0e3cca117194107a5384457f8aec5ed7636b1f0dbeb62f66b3
+public final class a extends javax.microedition.midlet.MIDlet implements java.lang.Runnable
+  minor version: 3
+  major version: 45
+  flags: (0x0031) ACC_PUBLIC, ACC_FINAL, ACC_SUPER
+  this_class: #7                          // a
+  super_class: #21                        // javax/microedition/midlet/MIDlet
+  interfaces: 1, fields: 14, methods: 15, attributes: 0
+Constant pool:
+    #1 = Long               5l
+    #3 = String             #122          // /i
+    #4 = String             #139          // audio/amr
+    #5 = String             #140          // audio/midi
+    #6 = Class              #133          // "[B"
+    #7 = Class              #137          // a
+    #8 = Class              #141          // b
+    #9 = Class              #151          // h
+   #10 = Class              #152          // java/io/ByteArrayInputStream
+   #11 = Class              #153          // java/lang/Exception
+   #12 = Class              #154          // java/lang/Runnable
+   #13 = Class              #155          // java/lang/String
+   #14 = Class              #156          // java/lang/System
+   #15 = Class              #157          // java/lang/Thread
+   #16 = Class              #158          // java/lang/Throwable
+   #17 = Class              #159          // javax/microedition/lcdui/Display
+   #18 = Class              #160          // javax/microedition/media/Manager
+   #19 = Class              #161          // javax/microedition/media/MediaException
+   #20 = Class              #162          // javax/microedition/media/Player
+   #21 = Class              #163          // javax/microedition/midlet/MIDlet
+   #22 = Fieldref           #7.#72        // a.a:I
+   #23 = Fieldref           #7.#73        // a.a:J
+   #24 = Fieldref           #7.#74        // a.a:Lh;
+   #25 = Fieldref           #7.#75        // a.a:Ljava/lang/Thread;
+   #26 = Fieldref           #7.#76        // a.a:Ljavax/microedition/lcdui/Display;
+   #27 = Fieldref           #7.#77        // a.a:Z
+   #28 = Fieldref           #7.#78        // a.a:[B
+   #29 = Fieldref           #7.#79        // a.a:[I
+   #30 = Fieldref           #7.#80        // a.a:[Ljavax/microedition/media/Player;
+   #31 = Fieldref           #7.#84        // a.b:I
+   #32 = Fieldref           #7.#85        // a.b:Z
+   #33 = Fieldref           #7.#86        // a.c:I
+   #34 = Fieldref           #7.#87        // a.c:Z
+   #35 = Fieldref           #7.#91        // a.d:Z
+   #36 = Fieldref           #8.#77        // b.a:Z
+   #37 = Fieldref           #9.#78        // h.a:[B
+   #38 = Fieldref           #9.#81        // h.a:[[I
+   #39 = Methodref          #7.#70        // a.a:(I[BI)Ljavax/microedition/media/Player;
+   #40 = Methodref          #7.#90        // a.d:()V
+   #41 = Methodref          #9.#66        // h."<init>":(Ljavax/microedition/midlet/MIDlet;)V
+   #42 = Methodref          #9.#68        // h.a:(II)V
+   #43 = Methodref          #9.#69        // h.a:(II)[B
+   #44 = Methodref          #9.#71        // h.a:(Ljava/lang/String;)V
+   #45 = Methodref          #9.#83        // h.b:()V
+   #46 = Methodref          #9.#92        // h.e:()V
+   #47 = Methodref          #10.#67       // java/io/ByteArrayInputStream."<init>":([BII)V
+   #48 = Methodref          #14.#82       // java/lang/System.arraycopy:(Ljava/lang/Object;ILjava/lang/Object;II)V
+   #49 = Methodref          #14.#89       // java/lang/System.currentTimeMillis:()J
+   #50 = Methodref          #15.#65       // java/lang/Thread."<init>":(Ljava/lang/Runnable;)V
+   #51 = Methodref          #15.#99       // java/lang/Thread.sleep:(J)V
+   #52 = Methodref          #15.#100      // java/lang/Thread.start:()V
+   #53 = Methodref          #15.#102      // java/lang/Thread.yield:()V
+   #54 = Methodref          #17.#93       // javax/microedition/lcdui/Display.getDisplay:(Ljavax/microedition/midlet/MIDlet;)Ljavax/microedition/lcdui/Display;
+   #55 = Methodref          #17.#96       // javax/microedition/lcdui/Display.setCurrent:(Ljavax/microedition/lcdui/Displayable;)V
+   #56 = Methodref          #18.#88       // javax/microedition/media/Manager.createPlayer:(Ljava/io/InputStream;Ljava/lang/String;)Ljavax/microedition/media/Player;
+   #57 = Methodref          #21.#64       // javax/microedition/midlet/MIDlet."<init>":()V
+   #58 = InterfaceMethodref #20.#94       // javax/microedition/media/Player.getState:()I
+   #59 = InterfaceMethodref #20.#95       // javax/microedition/media/Player.realize:()V
+   #60 = InterfaceMethodref #20.#97       // javax/microedition/media/Player.setLoopCount:(I)V
+   #61 = InterfaceMethodref #20.#98       // javax/microedition/media/Player.setMediaTime:(J)J
+   #62 = InterfaceMethodref #20.#100      // javax/microedition/media/Player.start:()V
+   #63 = InterfaceMethodref #20.#101      // javax/microedition/media/Player.stop:()V
+   #64 = NameAndType        #124:#105     // "<init>":()V
+   #65 = NameAndType        #124:#115     // "<init>":(Ljava/lang/Runnable;)V
+   #66 = NameAndType        #124:#119     // "<init>":(Ljavax/microedition/midlet/MIDlet;)V
+   #67 = NameAndType        #124:#121     // "<init>":([BII)V
+   #68 = NameAndType        #137:#108     // a:(II)V
+   #69 = NameAndType        #137:#109     // a:(II)[B
+   #70 = NameAndType        #137:#110     // a:(I[BI)Ljavax/microedition/media/Player;
+   #71 = NameAndType        #137:#116     // a:(Ljava/lang/String;)V
+   #72 = NameAndType        #137:#126     // a:I
+   #73 = NameAndType        #137:#127     // a:J
+   #74 = NameAndType        #137:#128     // a:Lh;
+   #75 = NameAndType        #137:#129     // a:Ljava/lang/Thread;
+   #76 = NameAndType        #137:#130     // a:Ljavax/microedition/lcdui/Display;
+   #77 = NameAndType        #137:#132     // a:Z
+   #78 = NameAndType        #137:#133     // a:[B
+   #79 = NameAndType        #137:#134     // a:[I
+   #80 = NameAndType        #137:#135     // a:[Ljavax/microedition/media/Player;
+   #81 = NameAndType        #137:#136     // a:[[I
+   #82 = NameAndType        #138:#114     // arraycopy:(Ljava/lang/Object;ILjava/lang/Object;II)V
+   #83 = NameAndType        #141:#105     // b:()V
+   #84 = NameAndType        #141:#126     // b:I
+   #85 = NameAndType        #141:#132     // b:Z
+   #86 = NameAndType        #142:#126     // c:I
+   #87 = NameAndType        #142:#132     // c:Z
+   #88 = NameAndType        #143:#113     // createPlayer:(Ljava/io/InputStream;Ljava/lang/String;)Ljavax/microedition/media/Player;
+   #89 = NameAndType        #144:#104     // currentTimeMillis:()J
+   #90 = NameAndType        #145:#105     // d:()V
+   #91 = NameAndType        #145:#132     // d:Z
+   #92 = NameAndType        #147:#105     // e:()V
+   #93 = NameAndType        #149:#118     // getDisplay:(Ljavax/microedition/midlet/MIDlet;)Ljavax/microedition/lcdui/Display;
+   #94 = NameAndType        #150:#103     // getState:()I
+   #95 = NameAndType        #165:#105     // realize:()V
+   #96 = NameAndType        #167:#117     // setCurrent:(Ljavax/microedition/lcdui/Displayable;)V
+   #97 = NameAndType        #168:#107     // setLoopCount:(I)V
+   #98 = NameAndType        #169:#111     // setMediaTime:(J)J
+   #99 = NameAndType        #170:#112     // sleep:(J)V
+  #100 = NameAndType        #171:#105     // start:()V
+  #101 = NameAndType        #173:#105     // stop:()V
+  #102 = NameAndType        #174:#105     // yield:()V
+  #103 = Utf8               ()I
+  #104 = Utf8               ()J
+  #105 = Utf8               ()V
+  #106 = Utf8               ()Z
+  #107 = Utf8               (I)V
+  #108 = Utf8               (II)V
+  #109 = Utf8               (II)[B
+  #110 = Utf8               (I[BI)Ljavax/microedition/media/Player;
+  #111 = Utf8               (J)J
+  #112 = Utf8               (J)V
+  #113 = Utf8               (Ljava/io/InputStream;Ljava/lang/String;)Ljavax/microedition/media/Player;
+  #114 = Utf8               (Ljava/lang/Object;ILjava/lang/Object;II)V
+  #115 = Utf8               (Ljava/lang/Runnable;)V
+  #116 = Utf8               (Ljava/lang/String;)V
+  #117 = Utf8               (Ljavax/microedition/lcdui/Displayable;)V
+  #118 = Utf8               (Ljavax/microedition/midlet/MIDlet;)Ljavax/microedition/lcdui/Display;
+  #119 = Utf8               (Ljavax/microedition/midlet/MIDlet;)V
+  #120 = Utf8               (Z)V
+  #121 = Utf8               ([BII)V
+  #122 = Utf8               /i
+  #123 = Utf8               <clinit>
+  #124 = Utf8               <init>
+  #125 = Utf8               Code
+  #126 = Utf8               I
+  #127 = Utf8               J
+  #128 = Utf8               Lh;
+  #129 = Utf8               Ljava/lang/Thread;
+  #130 = Utf8               Ljavax/microedition/lcdui/Display;
+  #131 = Utf8               StackMap
+  #132 = Utf8               Z
+  #133 = Utf8               [B
+  #134 = Utf8               [I
+  #135 = Utf8               [Ljavax/microedition/media/Player;
+  #136 = Utf8               [[I
+  #137 = Utf8               a
+  #138 = Utf8               arraycopy
+  #139 = Utf8               audio/amr
+  #140 = Utf8               audio/midi
+  #141 = Utf8               b
+  #142 = Utf8               c
+  #143 = Utf8               createPlayer
+  #144 = Utf8               currentTimeMillis
+  #145 = Utf8               d
+  #146 = Utf8               destroyApp
+  #147 = Utf8               e
+  #148 = Utf8               f
+  #149 = Utf8               getDisplay
+  #150 = Utf8               getState
+  #151 = Utf8               h
+  #152 = Utf8               java/io/ByteArrayInputStream
+  #153 = Utf8               java/lang/Exception
+  #154 = Utf8               java/lang/Runnable
+  #155 = Utf8               java/lang/String
+  #156 = Utf8               java/lang/System
+  #157 = Utf8               java/lang/Thread
+  #158 = Utf8               java/lang/Throwable
+  #159 = Utf8               javax/microedition/lcdui/Display
+  #160 = Utf8               javax/microedition/media/Manager
+  #161 = Utf8               javax/microedition/media/MediaException
+  #162 = Utf8               javax/microedition/media/Player
+  #163 = Utf8               javax/microedition/midlet/MIDlet
+  #164 = Utf8               pauseApp
+  #165 = Utf8               realize
+  #166 = Utf8               run
+  #167 = Utf8               setCurrent
+  #168 = Utf8               setLoopCount
+  #169 = Utf8               setMediaTime
+  #170 = Utf8               sleep
+  #171 = Utf8               start
+  #172 = Utf8               startApp
+  #173 = Utf8               stop
+  #174 = Utf8               yield
+{
+  private static javax.microedition.lcdui.Display a;
+    descriptor: Ljavax/microedition/lcdui/Display;
+    flags: (0x000a) ACC_PRIVATE, ACC_STATIC
+
+  public static h a;
+    descriptor: Lh;
+    flags: (0x0009) ACC_PUBLIC, ACC_STATIC
+
+  private static java.lang.Thread a;
+    descriptor: Ljava/lang/Thread;
+    flags: (0x000a) ACC_PRIVATE, ACC_STATIC
+
+  public static boolean a;
+    descriptor: Z
+    flags: (0x0009) ACC_PUBLIC, ACC_STATIC
+
+  private static final int[] a;
+    descriptor: [I
+    flags: (0x001a) ACC_PRIVATE, ACC_STATIC, ACC_FINAL
+
+  private static byte[] a;
+    descriptor: [B
+    flags: (0x000a) ACC_PRIVATE, ACC_STATIC
+
+  private static boolean c;
+    descriptor: Z
+    flags: (0x000a) ACC_PRIVATE, ACC_STATIC
+
+  private static boolean d;
+    descriptor: Z
+    flags: (0x000a) ACC_PRIVATE, ACC_STATIC
+
+  public static int a;
+    descriptor: I
+    flags: (0x0009) ACC_PUBLIC, ACC_STATIC
+
+  public static int b;
+    descriptor: I
+    flags: (0x0009) ACC_PUBLIC, ACC_STATIC
+
+  private static final javax.microedition.media.Player[] a;
+    descriptor: [Ljavax/microedition/media/Player;
+    flags: (0x001a) ACC_PRIVATE, ACC_STATIC, ACC_FINAL
+
+  private static int c;
+    descriptor: I
+    flags: (0x000a) ACC_PRIVATE, ACC_STATIC
+
+  public static boolean b;
+    descriptor: Z
+    flags: (0x0009) ACC_PUBLIC, ACC_STATIC
+
+  public static long a;
+    descriptor: J
+    flags: (0x0009) ACC_PUBLIC, ACC_STATIC
+
+  public a();
+    descriptor: ()V
+    flags: (0x0001) ACC_PUBLIC
+    Code:
+      stack=3, locals=1, args_size=1
+         0: aload_0
+         1: invokespecial #57                 // Method javax/microedition/midlet/MIDlet."<init>":()V
+         4: new           #15                 // class java/lang/Thread
+         7: dup
+         8: aload_0
+         9: invokespecial #50                 // Method java/lang/Thread."<init>":(Ljava/lang/Runnable;)V
+        12: invokevirtual #52                 // Method java/lang/Thread.start:()V
+        15: aload_0
+        16: invokestatic  #54                 // Method javax/microedition/lcdui/Display.getDisplay:(Ljavax/microedition/midlet/MIDlet;)Ljavax/microedition/lcdui/Display;
+        19: putstatic     #26                 // Field a:Ljavax/microedition/lcdui/Display;
+        22: new           #9                  // class h
+        25: dup
+        26: aload_0
+        27: invokespecial #41                 // Method h."<init>":(Ljavax/microedition/midlet/MIDlet;)V
+        30: putstatic     #24                 // Field a:Lh;
+        33: return
+
+  public final void startApp();
+    descriptor: ()V
+    flags: (0x0011) ACC_PUBLIC, ACC_FINAL
+    Code:
+      stack=3, locals=1, args_size=1
+         0: getstatic     #25                 // Field a:Ljava/lang/Thread;
+         3: ifnonnull     32
+         6: getstatic     #26                 // Field a:Ljavax/microedition/lcdui/Display;
+         9: getstatic     #24                 // Field a:Lh;
+        12: invokevirtual #55                 // Method javax/microedition/lcdui/Display.setCurrent:(Ljavax/microedition/lcdui/Displayable;)V
+        15: new           #15                 // class java/lang/Thread
+        18: dup
+        19: getstatic     #24                 // Field a:Lh;
+        22: invokespecial #50                 // Method java/lang/Thread."<init>":(Ljava/lang/Runnable;)V
+        25: dup
+        26: putstatic     #25                 // Field a:Ljava/lang/Thread;
+        29: invokevirtual #52                 // Method java/lang/Thread.start:()V
+        32: return
+      StackMap: number_of_entries = 1
+        frame_type = 255 offset = 32
+          locals = [ class a ]
+          stack = []
+
+  public final void pauseApp();
+    descriptor: ()V
+    flags: (0x0011) ACC_PUBLIC, ACC_FINAL
+    Code:
+      stack=0, locals=1, args_size=1
+         0: return
+
+  public final void destroyApp(boolean);
+    descriptor: (Z)V
+    flags: (0x0011) ACC_PUBLIC, ACC_FINAL
+    Code:
+      stack=1, locals=2, args_size=2
+         0: aconst_null
+         1: putstatic     #25                 // Field a:Ljava/lang/Thread;
+         4: return
+
+  public final void run();
+    descriptor: ()V
+    flags: (0x0011) ACC_PUBLIC, ACC_FINAL
+    Code:
+      stack=5, locals=2, args_size=1
+         0: getstatic     #35                 // Field d:Z
+         3: ifeq          13
+         6: invokestatic  #40                 // Method d:()V
+         9: iconst_0
+        10: putstatic     #35                 // Field d:Z
+        13: getstatic     #34                 // Field c:Z
+        16: ifeq          208
+        19: getstatic     #31                 // Field b:I
+        22: iconst_m1
+        23: if_icmpeq     48
+        26: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        29: getstatic     #31                 // Field b:I
+        32: aaload
+        33: ifnull        48
+        36: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        39: getstatic     #31                 // Field b:I
+        42: aaload
+        43: invokeinterface #63,  1           // InterfaceMethod javax/microedition/media/Player.stop:()V
+        48: getstatic     #22                 // Field a:I
+        51: getstatic     #31                 // Field b:I
+        54: if_icmpeq     100
+        57: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        60: getstatic     #22                 // Field a:I
+        63: aaload
+        64: ifnonnull     100
+        67: getstatic     #29                 // Field a:[I
+        70: getstatic     #22                 // Field a:I
+        73: iconst_1
+        74: ishl
+        75: iaload
+        76: sipush        13317
+        79: isub
+        80: istore_1
+        81: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        84: getstatic     #22                 // Field a:I
+        87: getstatic     #22                 // Field a:I
+        90: iconst_1
+        91: ishl
+        92: getstatic     #28                 // Field a:[B
+        95: iload_1
+        96: invokestatic  #39                 // Method a:(I[BI)Ljavax/microedition/media/Player;
+        99: aastore
+       100: getstatic     #33                 // Field c:I
+       103: ifne          122
+       106: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+       109: getstatic     #22                 // Field a:I
+       112: aaload
+       113: iconst_m1
+       114: invokeinterface #60,  2           // InterfaceMethod javax/microedition/media/Player.setLoopCount:(I)V
+       119: goto          137
+       122: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+       125: getstatic     #22                 // Field a:I
+       128: aaload
+       129: getstatic     #33                 // Field c:I
+       132: invokeinterface #60,  2           // InterfaceMethod javax/microedition/media/Player.setLoopCount:(I)V
+       137: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+       140: getstatic     #22                 // Field a:I
+       143: aaload
+       144: invokeinterface #59,  1           // InterfaceMethod javax/microedition/media/Player.realize:()V
+       149: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+       152: getstatic     #22                 // Field a:I
+       155: aaload
+       156: lconst_0
+       157: invokeinterface #61,  3           // InterfaceMethod javax/microedition/media/Player.setMediaTime:(J)J
+       162: pop2
+       163: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+       166: getstatic     #22                 // Field a:I
+       169: aaload
+       170: invokeinterface #62,  1           // InterfaceMethod javax/microedition/media/Player.start:()V
+       175: getstatic     #32                 // Field b:Z
+       178: ifeq          194
+       181: getstatic     #22                 // Field a:I
+       184: iconst_3
+       185: if_icmpne     194
+       188: invokestatic  #49                 // Method java/lang/System.currentTimeMillis:()J
+       191: putstatic     #23                 // Field a:J
+       194: goto          198
+       197: pop
+       198: getstatic     #22                 // Field a:I
+       201: putstatic     #31                 // Field b:I
+       204: iconst_0
+       205: putstatic     #34                 // Field c:Z
+       208: ldc2_w        #1                  // long 5l
+       211: invokestatic  #51                 // Method java/lang/Thread.sleep:(J)V
+       214: goto          218
+       217: pop
+       218: invokestatic  #53                 // Method java/lang/Thread.yield:()V
+       221: goto          0
+      Exception table:
+         from    to  target type
+            19   194   197   Class java/lang/Throwable
+           208   214   217   Class java/lang/Exception
+      StackMap: number_of_entries = 12
+        frame_type = 255 offset = 0
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 13
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 48
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 100
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 122
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 137
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 194
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 197
+          locals = [ class a ]
+          stack = [ class java/lang/Throwable ]
+        frame_type = 255 offset = 198
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 208
+          locals = [ class a ]
+          stack = []
+        frame_type = 255 offset = 217
+          locals = [ class a ]
+          stack = [ class java/lang/Exception ]
+        frame_type = 255 offset = 218
+          locals = [ class a ]
+          stack = []
+
+  private static final javax.microedition.media.Player a(int, byte[], int);
+    descriptor: (I[BI)Ljavax/microedition/media/Player;
+    flags: (0x001a) ACC_PRIVATE, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=7, locals=4, args_size=3
+         0: aload_1
+         1: iload_2
+         2: baload
+         3: ifne          12
+         6: ldc           #5                  // String audio/midi
+         8: astore_3
+         9: goto          15
+        12: ldc           #4                  // String audio/amr
+        14: astore_3
+        15: new           #10                 // class java/io/ByteArrayInputStream
+        18: dup
+        19: aload_1
+        20: iload_2
+        21: iconst_1
+        22: iadd
+        23: getstatic     #29                 // Field a:[I
+        26: iload_0
+        27: iconst_1
+        28: iadd
+        29: iaload
+        30: invokespecial #47                 // Method java/io/ByteArrayInputStream."<init>":([BII)V
+        33: aload_3
+        34: invokestatic  #56                 // Method javax/microedition/media/Manager.createPlayer:(Ljava/io/InputStream;Ljava/lang/String;)Ljavax/microedition/media/Player;
+        37: areturn
+        38: pop
+        39: aconst_null
+        40: areturn
+      Exception table:
+         from    to  target type
+            15    37    38   Class java/lang/Throwable
+      StackMap: number_of_entries = 3
+        frame_type = 255 offset = 12
+          locals = [ int, class "[B", int ]
+          stack = []
+        frame_type = 255 offset = 15
+          locals = [ int, class "[B", int, class java/lang/String ]
+          stack = []
+        frame_type = 255 offset = 38
+          locals = [ int, class "[B", int, class java/lang/String ]
+          stack = [ class java/lang/Throwable ]
+
+  public static final void a();
+    descriptor: ()V
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=5, locals=4, args_size=0
+         0: iconst_0
+         1: istore_0
+         2: iload_0
+         3: iconst_4
+         4: if_icmpge     51
+         7: iload_0
+         8: iconst_1
+         9: ishl
+        10: istore_1
+        11: getstatic     #29                 // Field a:[I
+        14: iload_1
+        15: iaload
+        16: getstatic     #29                 // Field a:[I
+        19: iload_1
+        20: iconst_1
+        21: iadd
+        22: iaload
+        23: invokestatic  #42                 // Method h.a:(II)V
+        26: getstatic     #32                 // Field b:Z
+        29: ifeq          45
+        32: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        35: iload_0
+        36: iload_1
+        37: getstatic     #37                 // Field h.a:[B
+        40: iconst_0
+        41: invokestatic  #39                 // Method a:(I[BI)Ljavax/microedition/media/Player;
+        44: aastore
+        45: iinc          0, 1
+        48: goto          2
+        51: iconst_0
+        52: istore_0
+        53: iconst_4
+        54: istore_1
+        55: iload_1
+        56: bipush        7
+        58: if_icmpge     101
+        61: iload_1
+        62: iconst_1
+        63: ishl
+        64: istore_2
+        65: getstatic     #29                 // Field a:[I
+        68: iload_2
+        69: iconst_1
+        70: iadd
+        71: iaload
+        72: istore_3
+        73: getstatic     #29                 // Field a:[I
+        76: iload_2
+        77: iaload
+        78: iload_3
+        79: invokestatic  #43                 // Method h.a:(II)[B
+        82: iconst_0
+        83: getstatic     #28                 // Field a:[B
+        86: iload_0
+        87: iload_3
+        88: invokestatic  #48                 // Method java/lang/System.arraycopy:(Ljava/lang/Object;ILjava/lang/Object;II)V
+        91: iload_0
+        92: iload_3
+        93: iadd
+        94: istore_0
+        95: iinc          1, 1
+        98: goto          55
+       101: return
+      StackMap: number_of_entries = 5
+        frame_type = 255 offset = 2
+          locals = [ int ]
+          stack = []
+        frame_type = 255 offset = 45
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 51
+          locals = [ int ]
+          stack = []
+        frame_type = 255 offset = 55
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 101
+          locals = [ int, int ]
+          stack = []
+
+  public static final void b();
+    descriptor: ()V
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=5, locals=2, args_size=0
+         0: ldc           #3                  // String /i
+         2: invokestatic  #44                 // Method h.a:(Ljava/lang/String;)V
+         5: bipush        7
+         7: istore_0
+         8: iload_0
+         9: bipush        14
+        11: if_icmpge     52
+        14: iload_0
+        15: iconst_1
+        16: ishl
+        17: istore_1
+        18: getstatic     #29                 // Field a:[I
+        21: iload_1
+        22: iaload
+        23: getstatic     #29                 // Field a:[I
+        26: iload_1
+        27: iconst_1
+        28: iadd
+        29: iaload
+        30: invokestatic  #42                 // Method h.a:(II)V
+        33: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        36: iload_0
+        37: iload_1
+        38: getstatic     #37                 // Field h.a:[B
+        41: iconst_0
+        42: invokestatic  #39                 // Method a:(I[BI)Ljavax/microedition/media/Player;
+        45: aastore
+        46: iinc          0, 1
+        49: goto          8
+        52: invokestatic  #45                 // Method h.b:()V
+        55: return
+      StackMap: number_of_entries = 2
+        frame_type = 255 offset = 8
+          locals = [ int ]
+          stack = []
+        frame_type = 255 offset = 52
+          locals = [ int ]
+          stack = []
+
+  public static final void a(int, int);
+    descriptor: (II)V
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=3, locals=2, args_size=2
+         0: getstatic     #36                 // Field b.a:Z
+         3: ifne          17
+         6: getstatic     #38                 // Field h.a:[[I
+         9: iconst_2
+        10: aaload
+        11: iconst_0
+        12: iaload
+        13: iconst_1
+        14: if_icmpeq     22
+        17: iconst_1
+        18: putstatic     #35                 // Field d:Z
+        21: return
+        22: getstatic     #31                 // Field b:I
+        25: iconst_3
+        26: if_icmpne     65
+        29: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        32: iconst_3
+        33: aaload
+        34: ifnull        65
+        37: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        40: iconst_3
+        41: aaload
+        42: invokeinterface #58,  1           // InterfaceMethod javax/microedition/media/Player.getState:()I
+        47: sipush        400
+        50: if_icmpne     54
+        53: return
+        54: iload_0
+        55: iconst_3
+        56: if_icmpeq     65
+        59: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        62: iconst_3
+        63: aconst_null
+        64: aastore
+        65: getstatic     #31                 // Field b:I
+        68: bipush        13
+        70: if_icmpne     100
+        73: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        76: bipush        13
+        78: aaload
+        79: ifnull        100
+        82: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        85: bipush        13
+        87: aaload
+        88: invokeinterface #58,  1           // InterfaceMethod javax/microedition/media/Player.getState:()I
+        93: sipush        400
+        96: if_icmpne     100
+        99: return
+       100: iload_1
+       101: putstatic     #33                 // Field c:I
+       104: iload_0
+       105: putstatic     #22                 // Field a:I
+       108: iconst_1
+       109: putstatic     #34                 // Field c:Z
+       112: return
+      StackMap: number_of_entries = 5
+        frame_type = 255 offset = 17
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 22
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 54
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 65
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 100
+          locals = [ int, int ]
+          stack = []
+
+  public static final void c();
+    descriptor: ()V
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=1, locals=0, args_size=0
+         0: iconst_1
+         1: putstatic     #35                 // Field d:Z
+         4: return
+
+  public static final void d();
+    descriptor: ()V
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=2, locals=0, args_size=0
+         0: getstatic     #31                 // Field b:I
+         3: iconst_m1
+         4: if_icmpeq     29
+         7: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        10: getstatic     #31                 // Field b:I
+        13: aaload
+        14: ifnull        29
+        17: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        20: getstatic     #31                 // Field b:I
+        23: aaload
+        24: invokeinterface #63,  1           // InterfaceMethod javax/microedition/media/Player.stop:()V
+        29: return
+        30: pop
+        31: return
+      Exception table:
+         from    to  target type
+             0    29    30   Class javax/microedition/media/MediaException
+      StackMap: number_of_entries = 2
+        frame_type = 255 offset = 29
+          locals = []
+          stack = []
+        frame_type = 255 offset = 30
+          locals = []
+          stack = [ class javax/microedition/media/MediaException ]
+
+  public static final void e();
+    descriptor: ()V
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=3, locals=1, args_size=0
+         0: bipush        14
+         2: istore_0
+         3: iload_0
+         4: dup
+         5: iconst_1
+         6: isub
+         7: istore_0
+         8: bipush        7
+        10: if_icmple     22
+        13: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+        16: iload_0
+        17: aconst_null
+        18: aastore
+        19: goto          3
+        22: invokestatic  #46                 // Method h.e:()V
+        25: return
+      StackMap: number_of_entries = 2
+        frame_type = 255 offset = 3
+          locals = [ int ]
+          stack = []
+        frame_type = 255 offset = 22
+          locals = [ int ]
+          stack = []
+
+  public static final boolean a();
+    descriptor: ()Z
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=1, locals=0, args_size=0
+         0: getstatic     #32                 // Field b:Z
+         3: ireturn
+
+  public static final void f();
+    descriptor: ()V
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=3, locals=0, args_size=0
+         0: getstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+         3: iconst_3
+         4: aconst_null
+         5: aastore
+         6: return
+
+  static {};
+    descriptor: ()V
+    flags: (0x0008) ACC_STATIC
+    Code:
+      stack=4, locals=0, args_size=0
+         0: iconst_1
+         1: putstatic     #27                 // Field a:Z
+         4: bipush        28
+         6: newarray       int
+         8: dup
+         9: iconst_0
+        10: sipush        6746
+        13: iastore
+        14: dup
+        15: iconst_1
+        16: sipush        132
+        19: iastore
+        20: dup
+        21: iconst_2
+        22: sipush        6878
+        25: iastore
+        26: dup
+        27: iconst_3
+        28: bipush        96
+        30: iastore
+        31: dup
+        32: iconst_4
+        33: sipush        6974
+        36: iastore
+        37: dup
+        38: iconst_5
+        39: bipush        102
+        41: iastore
+        42: dup
+        43: bipush        6
+        45: sipush        7076
+        48: iastore
+        49: dup
+        50: bipush        7
+        52: sipush        6241
+        55: iastore
+        56: dup
+        57: bipush        8
+        59: sipush        13317
+        62: iastore
+        63: dup
+        64: bipush        9
+        66: sipush        830
+        69: iastore
+        70: dup
+        71: bipush        10
+        73: sipush        14147
+        76: iastore
+        77: dup
+        78: bipush        11
+        80: sipush        697
+        83: iastore
+        84: dup
+        85: bipush        12
+        87: sipush        14844
+        90: iastore
+        91: dup
+        92: bipush        13
+        94: sipush        3174
+        97: iastore
+        98: dup
+        99: bipush        14
+       101: sipush        18018
+       104: iastore
+       105: dup
+       106: bipush        15
+       108: sipush        280
+       111: iastore
+       112: dup
+       113: bipush        16
+       115: sipush        18298
+       118: iastore
+       119: dup
+       120: bipush        17
+       122: sipush        175
+       125: iastore
+       126: dup
+       127: bipush        18
+       129: sipush        18473
+       132: iastore
+       133: dup
+       134: bipush        19
+       136: sipush        193
+       139: iastore
+       140: dup
+       141: bipush        20
+       143: sipush        18666
+       146: iastore
+       147: dup
+       148: bipush        21
+       150: sipush        416
+       153: iastore
+       154: dup
+       155: bipush        22
+       157: sipush        19082
+       160: iastore
+       161: dup
+       162: bipush        23
+       164: sipush        128
+       167: iastore
+       168: dup
+       169: bipush        24
+       171: sipush        19210
+       174: iastore
+       175: dup
+       176: bipush        25
+       178: bipush        102
+       180: iastore
+       181: dup
+       182: bipush        26
+       184: sipush        19312
+       187: iastore
+       188: dup
+       189: bipush        27
+       191: sipush        5173
+       194: iastore
+       195: putstatic     #29                 // Field a:[I
+       198: sipush        4701
+       201: newarray       byte
+       203: putstatic     #28                 // Field a:[B
+       206: iconst_m1
+       207: putstatic     #22                 // Field a:I
+       210: iconst_m1
+       211: putstatic     #31                 // Field b:I
+       214: bipush        14
+       216: anewarray     #20                 // class javax/microedition/media/Player
+       219: putstatic     #30                 // Field a:[Ljavax/microedition/media/Player;
+       222: iconst_1
+       223: putstatic     #32                 // Field b:Z
+       226: return
+}
