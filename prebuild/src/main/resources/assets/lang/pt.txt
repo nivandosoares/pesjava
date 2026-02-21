@@ -1,0 +1,296 @@
+ACERCA DE
+VOLTAR
+POSSE DA BOLA
+MELHORES
+BÓNUS
+DESBLOQUEOU
+A FORMAÇÃO 2-3-5
+A FORMAÇÃO MÉTODO
+A FORMAÇÃO WM
+O NÍVEL DE DIFICULDADE DE LENDA
+A BERLIN ARENA
+BUILD
+CÂMARA
+TIPO A
+TIPO B
+MUDAR FORMAÇÃO
+MUDAR JOGADOR
+AT
+DF
+GR
+PD
+VL
+TE
+CLUBES
+A TAÇA INGLESA
+A LIGA INGLESA
+A TAÇA DOS CAMPEÕES EUROPEUS
+A TAÇA DOS CLUBES EUROPEUS
+O CAMPEONATO EUROPEU
+A TAÇA FRANCESA
+A LIGUE 1
+O CAMPEONATO INTERNACIONAL
+A TAÇA ITALIANA
+A LIGA ITALIANA
+A SUPER DESAFIO DOS CLUBES
+A SUPER DESAFIO DAS NAÇÕES
+A LIGA DAS NAÇÕES
+A TAÇA ESPANHOLA
+LA LIGA
+5FOI DESPROMOVIDO PARA A LIGA 2 PARA A|PRÓXIMA ÉPOCA
+.FOI PROMOVIDO À LIGA 1 PARA A PRÓXIMA ÉPOCA
+GANHOU
+PARABÉNS!
+ATAQUE
+DEFESA
+GPara mais detalhes sobre cada tipo de|controlo consulte o menu de Ajuda
+CORRER
+UM TOQUE
+CONTROLOS
+ESPEC.
+PADRÃO
+�REMATAR|Mantenha 5 ou Ok para escolher potência|Direccione o remate||PASSAR|Prima 5 ou Ok||PASSE LONGO / CRUZAMENTO AO CENTRO|Mantenha 5 ou Ok||PASSE EM PROFUNDIDADE|Prima duas vezes 5 ou Ok
+�REMATAR|Mantenha 0 para escolher potência|Direccione o remate||PASSAR|Prima 5 ou Ok||PASSE LONGO / CRUZAMENTO AO CENTRO|Mantenha 5 ou Ok
+�PASSE UM-DOIS|Prima duas vezes 5 ou Ok||PASSE EM PROFUNDIDADE|Prima * ou #||SIMULAÇÃO DE REMATE|Mantenha 0 e Prima 5 rapidamente
+Prima 5 ou OK para passar
+Prima 5 ou OK para rematar
+,Prima a direcção para direccionar o remate
+)Mantenha 5 ou OK p/ passe longo ou centro
+*Prima duas vezes 5 ou OK p/ passe em prof.
+Prima 5 ou Ok para passar
+Prima 0 para rematar
+,Prima a direcção para direccionar o remate
+)Mantenha 5 ou Ok p/ passe longo ou centro
+*Prima # ou * para um passe em profundidade
+)Prima duas vezes 5 ou Ok p/ passe um-dois
+IAUTO-PRESSIONAR|Mantenha 5 premido ou Ok||PLACAR|Prima duas vezes 5 ou Ok
+gAUTO-PRESSIONAR|Mantenha premido 0, 5 ou Ok||PLACAR|Prima 0||CHAMAR GUARDA-REDES|Manter premidos # ou *
+*Prima 5 ou Ok para auto-pres. jog. c/ bola
+$Prima duas vezes 5 ou Ok para placar
+*Prima 5 ou Ok para auto-pres. jog. c/ bola
+%Prima 0 para auto-pressionar e placar
+Prima 0 para placar
+*Mantenha # ou * para chamar o guarda-redes�PARA CIMA|2 ou D-pad/joystick para cima||PARA BAIXO|8 ou D-pad/joystick para baixo||ESQUERDA|4 ou D-pad/joystick esquerda||DIREITA|6 ou D-pad/joystick direita||PARA CIMA e ESQUERDA|1 ou D-pad/joystick para cima e esquerda||PARA CIMA e DIREITA|3 ou D-pad/joystick para cima e direita||PARA BAIXO e ESQUERDA|7 ou D-pad/joystick para baixo e esquerda||PARA BAIXO e DIREITA|9 ou D-pad/joystick para baixo e direita||CORRIDA RÁPIDA|Prima duas vezes na direcção da corrida
+,Prima 12346789 ou D-pad/joystick para correr
+,Corrida rápida, prima 2 vezes na direcção
+,Prima 12346789 ou D-pad/joystick para correr
+,Corrida rápida, prima 2 vezes na direcção
+�LANÇAMENTO|Prima ou mantenha premido 5 ou Ok. Prima #|ou * para escolher o receptor||LIVRE / CANTO|Prima ou mantenha 5 ou Ok||GRANDE PENALIDADE|Mantenha 5 e direcção para rematar. Prima 1,|2, 3 ou 7, 8, 9 ou D-pad para mergulhar
+�LANÇAMENTO|Prima ou mantenha premido 5 ou Ok. Prima #|ou * para escolher o receptor||LIVRE / CANTO|Prima ou mantenha premido 0, 5 ou Ok||GRANDES PENALIDADES|Mantenha 0 e direcção para rematar. Prima|1, 2, 3 ou 7, 8, 9 ou D-pad para mergulhar
+'Prima 5 ou Ok para um lançamento curto
+'Prima 5 ou Ok para um lançamento longo
+*Mantenha 5 ou Ok para um canto ou um livre
+(Prima 5 ou Ok para uma grande penalidade
+'Prima 5 ou Ok para um lançamento curto
+'Prima 5 ou OK para um lançamento longo
+*Mantenha 5 ou Ok para um canto ou um livre
+"Prima 0 para uma grande penalidade
+PONTAPÉ DE CANTO
+PONTAPÉS DE CANTO
+CRÉDITOS
+TAÇA INGLESA
+TAÇA DOS CAMP. EUROPEUS
+TAÇA DOS CLUBES EURO.
+TAÇA FRANCESA
+TAÇA ITALIANA
+TAÇA ESPANHOLA
+INFO SOBRE CAMPEONATO
+MODO CAMPEONATO
+�Jogue uma variedade de campeonatos:||TAÇA DOS CAMPEÕES EUROPEUS|4 grupos de 4 equipas.||TAÇA DOS CLUBES EUROPEUS|Torneio de 16 equipas desde oitavos de final.||TAÇA INGLESA, FRANCESA, ITALIANA, ESPANHOLA|Torneio de 16 equipas desde oitavos de final.
+EURO NATIONS CUP
+CAMPEONATO DO MUNDO
+RESULTADOS CAMPEONATO
+TODOS OS DADOS FORAM APAGADOS
+DADOS GUARDADOS
+DIA
+PREDEFINIÇÃO
+DETALHES
+DIFICULDADE
+DIVISÃO
+FÁCIL
+FIM DO ENCONTRO
+APAGAR DADOS
+SAIR
+GOSTARIA DE ENCERRAR A APLICAÇÃO?*TODOS OS|DADOS NÃO GUARDADOS SERÃO PERDIDOS.*SERÁ|NECESSÁRIO REPETIR O ENCONTRO ACTUAL.
+SAIR DO JOGO
+PROLONG.
+FORMAÇÃO-A formação 2-3-5 é|também chamada «a|pirâmide» e é|inspirada pela|Danubian School e|pelo Metodo. Foi a|formação padrão|usada desde 1890 e|até aos anos 40. Era|considerada|equilibrada quando|comparada às velhas|1-1-8 e 1-2-7. Os|avançados e médios|desceriam se fosse|preciso mais defesa.
+�WM:|Este sistema foi|criado nos anos 20|como reacção à|mudança nas regras|de fora de jogo.|Esta formação deu|origem à 3-4-3 e|3-5-2 anos depois,|com uma distinção|clara entre médios|atacantes e|defensivos e nenhum|jogador especial.#3-4-3 é uma|formação de ataque,|com apenas três|defesas e 4 médios|a dividir-se entre o|ataque e a defesa.|Três avançados|permitem uma maior|concentração de|ataque, um perigo|constante para o|adversário.|Utilizada pelos|famosos FC|Barcelona dos anos|90 e FC Barcelona|em 2006/2007.Z3-5-2 é uma|formação de ataque,|com dois médios|laterais orientados|para o ataque. Um|ou dois médios|centrais têm de|apoiar a defesa,|consoante a|alternativa escolhida.|É uma das|formações mais|modulares, sendo|dada grande|importância aos|médios.|Usada pela|Argentina, Campeã|do Mundo de 1986 e|pelo Brasil, Campeão|do Mundo de 2002.
+�3-6-1 é uma|formação rara com|um meio-campo muito|denso a apoiar três|defesas e um|atacante solitário. Os|médios garantem a|posse para a equipa,|enquanto tentam|avançar. Pode ser|vista como|alternativa prudente|a 3-4-3.Y4-3-3 é uma|formação equilibrada|com 3 médios a|jogarem perto uns|dos outros para|proteger a defesa e|a moverem-se|lateralmente para|cobrir a largura do|campo. Os três|avançados|espalham-se pelo|campo para distribuir|o ataque e devem|«contra-placar».|Usada pelo Brasil,|Campeão do Mundo|de 1962 e pelo|famoso Ajax|Amsterdam dos anos|70.,4-4-2 é a formação|mais comum dos|nossos dias. Os|médios têm um papel|fundamental pois|apoiam a defesa e o|ataque. A linha do|meio-campo pode ser|direita ou em|diamante consoante|a estratégia da|equipa.|Usada pela maior|parte dos clubes|europeus e também|pela Itália Campeã do|Mundo de 2006.[4-5-1 é uma|formação muito|defensiva embora os|dois médios laterais|possam apoiar o|avançado solitário no|ataque. Esta|formação pode ser|usada para manter|uma vantagem pois|ao encher o centro|do meio-campo torna|difícil para o|adversário|desenvolver jogadas.|Usada pela França|Campeã do Mundo|em 1998, Olympique|Lyonnais, Liverpool|FC.A formação 5-3-2|tem três defesas|centrais, podendo|um deles funcionar|como atacante e dá|grande importância|aos defesas laterais|pois têm de apoiar a|defesa e o ataque|correndo|lateralmente ao|longo do campo.|Usada pela Alemanha|Ocidental Campeã do|Mundo de 1990.
+�5-4-1 é uma|formação|especialmente|defensiva, com um|avançado isolado e|uma defesa|compacta. Pode ser|usada para obter|empates 0-0 ou para|manter uma|vantagem. É uma|formação muito difícil|para o adversário,|com 9 potenciais|defesas em campo.
+FALTA
+FALTAS
+LIVRE
+TREINO GRATUITO
+DEMO GRÁTIS
+GALERIA
+DURAÇÃO
+MODOS DE JOGO
+DEFINIÇÕES DE JOGO
+COMPRA O JOGO
+�Obtém a versão completa a partir do serviço|de jogos do teu operador!||Basta clicares no ícone que encontras na|página inicial do menu principal do teu|telemóvel ou inserires o endereço no|browser do teu equipamento!
+MAIS JOGOS
+�Obtém mais excelentes jogos do serviço de|jogos do teu operador! Basta clicares no|ícone na página inicial do menu principal do|teu telemóvel ou utilizares o navegador do|equipamento e inserires o endereço!
+PONTAPÉ DE BALIZA
+MARCADORES
+GC
+IR PARA RESULTADOS DO CAMPEONATO
+IR PARA RESULTADOS DA LIGA
+IR PARA RESULTADOS DO ENCONTRO
+GRUPO
+MEIO-TEMPO
+DIFÍCIL
+AJUDA
+INFO DE AJUDA
+INDICADORES
+�Pode escolher entre a câmara tipo A ou tipo|B durante o jogo:||A câmara do tipo A é mais uma câmara de|ataque, concentrando-se no que está à sua|frente.||A câmara do tipo B, tendo o mesmo ângulo,|divide-se entre as linhas de ataque e de|defesa.
+Jogador controlado por si
+Melhor parceiro
+Parceiro fora de jogo
+eO cursor na parte inferior direita do ecrã|significa menu pausa. Prima a Tecla Direita|para o abrir.
+�Pode activar ou desactivar o radar nas|opções. O radar mostra uma vista aérea da|posição do jogador no campo, e oferece|duas informações importantes:
+1O quadrado intermitente mostra onde|está a bola.
+hO círculo destacado representa o|jogador controlado e o melhor parceiro|(potencial receptor de passes).
+INFORMAÇÕESZCorridas rápidas e pressões consomem a sua|resistência. Não as use com demasiada|frequência! Quando um jogador não está a|correr ou a pressionar, ele recupera|lentamente a sua resistência. Para verificar|a sua resistência, vá ao menu MUDAR|JOGADOR e prima esquerda ou direita para|alternar entre a posição e a resistência do|jogador.
+JOGO INSTANTÂNEO
+?Comece um jogo rápido com 2 equipas|escolhidas aleatoriamente.
+PONTAPÉ DE SAÍDA
+IDIOMA
+INGLÊS
+FRANCÊS
+ALEMÃO
+ITALIANO
+PORTUGUÊS
+ESPANHOL
+LIGA INGLESA
+LIGA FRANCESA
+LIGUE 1
+LIGA ITALIANA
+LIGA ESPANHOLA
+LA LIGA
+MODO LIGA
+@Jogue uma liga com os seus países ou clubes|europeus favoritos.
+RESULTADOS DA LIGA
+TABELA DE LIGAS
+E
+GC
+DG
+GF
+D
+P
+V
+LENDA
+CARREGAR DADOS
+A CARREGAR
+TEMPO ADIC.
+MENU PRINCIPAL
+DETALHES DO ENCONTRO
+ENCONTROS DO DIA
+MODO ENCONTRO
+?Jogar um encontro amigável com as suas|definições favoritas.
+RESULTADOS ENCONTRO
+DEFINIÇÕES ENCONTRO
+MINUTOS
+EQUIPAS NACIONAIS
+NAÇÕES
+LIGA DAS NAÇÕES
+KSe começar um novo jogo, os dados|guardados anteriormente serão apagados.
+NOVO CAMPEONATO
+NOVA LIGA
+SEG.
+ENCONTROS SEGUINTES
+ÉPOCA SEGUINTE
+NÃO
+NORMAL
+OFF
+FORA DE JOGO
+FORAS DE JOGO
+ON
+ADVERSÁRIO
+OPÇÕES
+PAUSA
+MENU PAUSA
+GRANDE PENALIDADE
+REMATE DE GR. PENALIDADE
+PB
+JOGAR
+JOGAR OUTRO ENCONTRO
+CT
+CA
+DM
+GR
+LT
+AM
+MT
+ML
+LAT
+JOGAR MESMO ENCONTRO
+PRIMA QUALQUER TECLA
+RADAR
+CHUVA
+ALEATÓRIOS
+REPETIR
+REPRO.
+3DE CERTEZA QUE PRETENDE APAGAR TODOS OS|SEUS DADOS?
+CONTINUAR ENCONTRO
+CONTINUAR TREINO
+zQUER VOLTAR AO MENU PRINCIPAL?*TODOS OS|DADOS NÃO GUARDADOS SERÃO PERDIDOS.*SERÁ|NECESSÁRIO REPETIR O ENCONTRO ACTUAL.
+CLASSI. DOS MARCADORES
+ESCOLHA O CAMPEONATO
+ESCOLHA A SUA LIGA
+ESCOLHA O ADVERSÁRIO
+ESCOLHA A SUA EQUIPA
+ESCOLHA O EQUIPAMENTO
+REMATES
+REMATES NO ALVO
+SALTAR
+SALTAR TREINO
+NEVE
+SOM
+ESPECIAIS
+ESTÁDIO
+BERLIN ARENA
+LONDON ARENA
+LUTECIA PARK
+MADRID DOME
+MILANO CAMP
+RESISTÊNCIA
+COMEÇAR PROLONGAMENTO
+COMEÇAR AS GRANDES PENALIDADES
+COMEÇAR A SEGUNDA PARTE
+SOL
+SUPER DESAFIO
+DESAFIO DOS CLUBES
+SUPER DESAFIO (CLUBES)PJogue 2 épocas de uma liga de clubes|internacional ou europeia. Começa na 2a|divisão e deve ser promovido para a 1a|divisão até ao fim da época.||Se conseguir chegar ao topo da 1a divisão|ganhará o COPO DA SUPER DESAFIO.||DESPROMOÇÃO: as últimas duas equipas da 1a|divisão.||PROMOÇÃO: melhores duas equipas da 2a|divisão.
+DESAFIO DAS NAÇÕES
+SUPER DESAFIO (NAÇÕES)
+VISIT.
+CASA
+EQUIPAS
+PARA SELECÇÃO DA EQUIPA
+LANÇAMENTO
+1oE
+2oE
+1o
+2o
+TREINO
+MODO DE TREINO
+!DESEJA TREINAR ANTES DO ENCONTRO?
+�Saiba como se tornar um jogador profissional|de PES Mobile.||Pode escolher entre TREINO GRATUITO e|MARCAÇÃO DE GRANDES PENALIDADES.
+TENTAR NOVAMENTE
+SELECÇÃO DO EQUIPAMENTO
+VERSÃO
+COND. ATMOSF.
+SIM
+PRODUTORES
+CHEFIA DE DESENVOLVIMENTO
+CHEFIA DE DESENV. DE CONVERSÃO
+DESENVOLVIMENTO
+ARTISTAS
+GESTÃO DO PRODUTO
+CHEFIA DE MOBILE BUSINESS
+'Pro Evolution Soccer|PRODUTOR EXECUTIVO
+%Pro Evolution Soccer|PRODUTOR SÉNIOR
+PRODUTORES DE KDE-J
+DIRECTOR DE KDE-J
+CONTEÚDO GLOBAL

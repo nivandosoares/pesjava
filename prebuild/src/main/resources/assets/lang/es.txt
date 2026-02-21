@@ -1,0 +1,293 @@
+ACERCA DE
+ATRÁS
+POSESIÓN
+MEJORES
+BONIFICACIÓN
+HAS DESBLOQUEADO
+LA FORMACIÓN 2-3-5
+LA FORMACIÓN MÉTODO
+LA FORMACIÓN WM
+EL NIVEL DE DIFICULTAD LEYENDA
+LA BERLIN ARENA
+BUILD
+CÁMARA
+TIPO A
+TIPO B
+CAMBIAR FORMACIÓN
+CAMBIAR JUGADOR
+ATA
+DEF
+POR
+POT
+VEL
+TEC
+CLUBES
+LA COPA INGLESA
+LA LIGA INGLESA
+LA COPA DE CAMPEONES DE EUROPA
+LA COPA DE EUROPA DE CLUBES
+LA COPA DE EUROPA
+LA COPA FRANCESA
+LA LIGUE 1
+LA COPA INTERNACIONAL
+LA COPA ITALIANA
+LA LIGA ITALIANA
+EL SÚPER DESAFÍO DE CLUBES
+EL SÚPER DESAFÍO DE NACIONES
+LA LIGA DE NACIONES
+LA COPA ESPAÑOLA
+LA LIGA
+AHAS ASCENDIDO A SEGUNDA DIVISIÓN DE CARA A|LA PRÓXIMA TEMPORADA
+AHAS ASCENDIDO A PRIMERA DIVISIÓN DE CARA A|LA PRÓXIMA TEMPORADA
+HAS GANADO
+¡FELICIDADES!
+ATAQUE
+DEFENSA
+OConsulta el menú de ayuda para más|información sobre los tipos de controles.
+CORRER
+UN TOQUE
+CONTROLES
+EXTRA
+ESTÁNDAR
+�CHUTAR|Mantén pulsado 5 u OK para aumentar la|potencia Dirige el disparo||PASAR|Pulsa 5 u OK||PASE LARGO / CENTRAR|Mantén pulsado 5 u OK||PASE EN PROFUNDIDAD|Pulsa dos veces 5 u OK
+�CHUTAR|Mantén pulsado 0 para aumentar la potencia|Dirige el disparo||PASAR|Pulsa 5 u OK||PASE LARGO / CENTRAR|Mantén pulsado 5 u OK
+vPARED|Pulsa dos veces 5 u OK||PASE EN PROFUNDIDAD|Pulsa * o #||AMAGAR DISPARO|Mantén pulsado 0 y pulsa 5 rápidamente
+Pulsa 5 u OK para pasar
+"Mantén pulsado 5 u OK para chutar
+(Utiliza las t. dir. para dirigir el tiro
++Mantén pul. 5 u OK para pase largo/centrar
+)Pulsa dos veces 5 u OK para pase en prof.
+Pulsa 5 u OK para pasar
+Mantén pulsado 0 para chutar
+(Utiliza las t. dir. para dirigir el tiro
++Mantén pul. 5 u OK para pase largo/centrar
+%Pulsa # o * para pasar en profundidad
+*Pulsa dos veces 5 u OK para hacer la pared
+@PRESIONAR|Mantén pulsado 5 u OK||ENTRADA|Pulsa dos veces 5 u OK
+\PRESIONAR|Mantén pulsado 0, 5 u OK||ENTRADA|Pulsa 0||SACAR AL PORTERO|Mantén pulsado # o *
+%Mantén pulsado 5 u OK para presionar
+"Pulsa dos veces 5 u OK para entrar
+%Mantén pulsado 5 u OK para presionar
+)Mantén pulsado 0 para presionar y entrar
+Pulsa 0 para hacer una entrada
++Mantén pulsado # o * para sacar al portero�ARRIBA|2 o las teclas de dirección arriba||ABAJO|8 o las teclas de dirección abajo||IZQUIERDA|4 o las teclas de dirección izquierda||DERECHA|6 o las teclas de dirección derecha||ARRIBA y IZQUIERDA|1 o las teclas de dirección arriba y izquierda||ARRIBA y DERECHA|3 o las teclas de dirección arriba y derecha||ABAJO y IZQUIERDA|7 o las teclas de dirección abajo y izquierda||ABAJO y DERECHA|9 o las teclas de dirección abajo y derecha||ACELERAR|Pulsa dos veces la tecla de dirección
+)Pulsa 12346789 o las t. dir. para correr.
+)Pulsa dos veces una t. dir. para acelerar
+(Pulsa 12346789 o las t. dir. para correr
+)Pulsa dos veces una t. dir. para acelerarSAQUE DE BANDA|Pulsa o mantén pulsado 5 u OK. Pulsa # o *|para elegir el destinatario||FALTA / CÓRNER|Pulsa o mantén pulsado 5 u OK||PENALTI|Mantén pulsado 5 y la dirección de disparo.|Pulsa 1, 2, 3 o 7, 8, 9, o las teclas de|dirección para mover al portero.
+SAQUE DE BANDA|Pulsa o mantén pulsado 5 u OK. Pulsa # o *|para elegir el destinatario||FALTA / CÓRNER|Pulsa o mantén pulsado 0, 5 u OK||PENALTI|Mantén pulsado 0 y la dirección de disparo.|Pulsa 1, 2, 3 o 7, 8, 9, o las teclas de|dirección para mover al portero.
+Pulsa 5 u OK para sacar en corto
+Pulsa 5 u OK para sacar en largo
+,Mantén pul. 5 u OK para tirar córner/falta
+)Mantén pul. 5 u OK para tirar un penalti
+Pulsa 5 u OK para sacar en corto
+Pulsa 5 u OK para sacar en largo
+,Mantén pul. 5 u OK para tirar córner/falta
+'Mantén pulsado 0 para tirar un penalti
+CÓRNER
+CÓRNERS
+CRÉDITOS
+COPA INGLESA
+COPA CAMPEONES DE EURO.
+COPA DE EURO. DE CLUBES
+COPA FRANCESA
+COPA ITALIANA
+COPA ESPAÑOLA
+INFO DE LA COPA
+MODO COPA
+�Juega una gran variedad de copas:||COPA DE CAMPEONES DE EUROPA|4 grupos de 4 equipos.||COPA DE EUROPA DE CLUBES|Torneo de 16 equipos desde octavos de final.||COPA INGLESA, FRANCESA, ITALIANA E ESPAÑOLA|Torneo de 16 equipos desde octavos de final.
+COPA EURO DE NACIONES
+COPA INTERNACIONAL
+RESULTADOS DE LA COPA
+#TODOS LOS DATOS HAN SIDO ELIMINADOS
+DATOS GUARDADOS
+DÍA
+PREDETERMINADO
+DETALLES
+DIFICULTAD
+DIVISIÓN
+FÁCIL
+FIN DEL PARTIDO
+BORRAR DATOS
+SALIR
+s¿QUIERES CERRAR LA APLICACIÓN?*LOS DATOS NO|SALVADOS SE PERDERÁN.*TENDRÁS QUE VOLVER|A JUGAR EL PARTIDO ACTUAL.
+SALIR DEL JUEGO
+PRÓRROGA
+FORMACIÓN0La formación 2-3-5,|conocida también|como «la pirámide»,|inspiró la escuela|danubiana y el|método. Fue la|formación habitual|desde 1890 hasta|1940. Se consideraba|una formación|equilibrada|comparada con las|antiguas 1-1-8 y 1-2-7.|Los delanteros y|centrocampistas|bajaban si había que|defender.WM:|este sistema se|creó a mediados de|los años 20 como|reacción al cambio|de la regla del fuera|de juego. Esta|formación dio paso al|3-4-3 y 3-5-2 años|después, con una|clara diferencia|entre|centrocampistas|ofensivos y|defensivos y sin un|verdadero creador|de juego.La 3-4-3 es una|formación ofensiva,|con sólo tres|defensas y con 4|centrocampistas que|deben atacar y|defender. Los tres|delanteros permiten|jugar más al ataque|y crear un peligro|constante.|Usada por el FC|Barcelona de los 90|y el FC Barcelona de|2006/2007.YLa 3-5-2 es una|formación ofensiva,|con dos extremos|orientados al ataque.|Uno o dos medios|centros ayudan en|defensa, en función|de la alternativa|elegida. Es una de|las formaciones más|versátiles, que da|mucha importancia a|los centrocampistas.|Usada por la|Argentina campeona|del mundo de 1986, y|por la Brasil|campeona del mundo|de 2002.	La 3-6-1 es una|formación muy poco|usada, con un|centro del campo|muy poblado que|ayuda a los tres|defensas y un solo|delantero. Los|centrocampistas|garantizan la|posesión del balón y|la creación de|oportunidades. Se|considera una|alternativa prudente|al 3-4-3.sLa 4-3-3 es una|formación muy|equilibrada, con 3|centrocampistas muy|unidos para proteger|la defensa que se|mueven lateralmente|para cubrir el ancho|del campo. Los tres|delanteros se|reparten el campo|para aumentar las|opciones de ataque|y deben presionar la|salida del rival.|Usada por la Brasil|campeona del mundo|de 1962, y por el|famoso Ajax de|Ámsterdam de los 70.^La 4-4-2 es la|formación más|habitual del fútbol|actual. Los|centrocampistas|desempeñan un papel|crucial, puesto que|deben ayudar tanto|en defensa como en|ataque. Los|centrocampistas|pueden formar en|línea o en rombo, en|función de la|estrategia del|equipo.|Usada por la mayoría|de equipos|europeos, y por la|Italia campeona del|mundo de 2006.CLa 4-5-1 es una|formación bastante|defensiva, aunque|los dos extremos|pueden apoyar al|delantero centro.|Esta formación|puede usarse para|mantener el|resultado, ya que un|centro del campo|tan poblado dificulta|el juego del rival.|Usada por la Francia|campeona del mundo|de 1998, por el|Olympique de Lyon, el|Liverpool FC.
+�La formación 5-3-2|posee tres defensas|centrales, de los|que uno actúa como|líbero, y otorga|mucha importancia a|los laterales, que|deben cubrir toda la|banda y aportar|tanto en defensa|como en ataque.|Usada por la|Alemania campeona|del mundo de 1990.La 5-4-1 es una|formación|particularmente|defensiva, con un|delantero aislado y|una defensa muy|poblada. Puede|usarse para buscar|el empate a cero o|mantener el|resultado. Es una|formación muy difícil|de contrarrestar, ya|que hasta 9|jugadores pueden|actuar en tareas|defensivas.
+FALTA
+FALTAS
+FALTA
+ENTRENAMIENTO LIBRE
+DEMO GRATIS
+GALERÍA
+DURACIÓN
+MODOS DE JUEGO
+AJUSTES DEL JUEGO
+COMPRA EL JUEGO
+�Puedes descargar la versión completa|mediante el servicio de juegos de tu|operador.||Haz clic en el icono de inicio del menú|principal de tu teléfono, o utiliza el|navegador del teléfono y escribe la|deirección del portal.
+MÁS JUEGOS
+�¡Descágate estupendos juegos con el|servicio de juegos de tu operador! Haz clic|en el icono de inicio del menú principal de tu|teléfono o utiliza el navegador del teléfono y|escribe la dirección del portal.
+SAQUE DE PUERTA
+GOLEADORES
+PP
+IR A RESULTADOS DE COPA
+IR A RESULTADOS DE LIGA
+IR A RESULTADOS DEL PARTIDO
+GRUPO
+MEDIA PARTE
+DIFÍCIL
+AYUDA
+INFO. DE AYUDA
+INDICADORES
+�Durante el partido, puedes elegir entre dos|tipos de cámara:||La cámara A es más ofensiva, y se centra|en lo que tienes delante.||La cámara B tiene el mismo ángulo, pero|está equilibrada entre el ataque y la defensa.
+Jugador que controlas
+Compañero mejor situado
+Compañero en fuera de juego
+~El cursor de la parte inferior derecha de la|pantalla es el menú de pausa. Pulsa la tecla|de selección derecha para abrirlo.
+�Puedes activar o desactivar el radar en las|opciones. El radar muestra la posición de los|jugadores en el campo, con dos valores|informativos importantes:
+7Un cuadrado parpadeante muestra|dónde está el balón.
+tUn círculo subrayado indica el jugador|que controlas y el compañero mejor|situado (posible destinatario del pase).
+INFORMACIÓN4Acelerar y presionar consumen energía. ¡No lo|hagas demasiado a menudo! Cuando un|jugador no esté acelerando o presionando,|recuperará la energía lentamente. Para|comprobar la energía, abre el menú CAMBIAR|JUGADOR y pulsa izquierda o derecha para|alternar entre la posición y la energía del|jugador.
+PARTIDO RÁPIDO
+:Juega un partido rápido con dos equipos|elegidos al azar.
+SAQUE INICIAL
+IDIOMA
+INGLÉS
+FRANCÉS
+ALEMÁN
+ITALIANO
+PORTUGUÉS
+ESPAÑOL
+LIGA INGLESA
+LIGA FRANCESA
+LIGUE 1
+LIGA ITALIANA
+LIGA ESPAÑOLA
+LA LIGA
+MODO LIGA
+?Juega una liga con tus selecciones o clubes|europeos favoritos.
+RESULTADOS DE LA LIGA
+CLASIFICACIÓN
+E
+GC
+DG
+GF
+D
+PJ
+V
+LEYENDA
+CARGAR DATOS
+CARGANDO
+TIEMPO PERDI.
+MENÚ PRINCIPAL
+DETALLES DEL PARTIDO
+PARTIDOS DEL DÍA
+MODO PARTIDO
+5Juega un partido amistoso con los ajustes|que desees.
+RESULTADO DEL PARTIDO
+AJUSTES DEL PARTIDO
+MINUTOS
+EQUIPOS NACIONALES
+NACIONES
+LIGA DE NACIONES
+ASi inicias una nueva partida, se eliminarán los|datos guardados.
+NUEVA COPA
+NUEVA LIGA
+SIG.
+PRÓXIMOS PARTIDOS
+SIGUIENTE TEMPORADA
+NO
+NORMAL
+DESACTIVADO
+FUERA DE JUEGO
+FUERAS DE JUEGO
+ACTIVADO
+RIVAL
+OPCIONES
+PAUSA
+MENÚ DE PAUSA
+PENALTI
+TANDA DE PENALTIS
+PEN
+JUGAR
+JUGAR OTRO PARTIDO
+DC
+DEL
+CCD
+POR
+LAT
+CCO
+LAT
+CCL
+EXT
+JUGAR EL MISMO PARTIDO
+PULSA UNA TECLA
+RADAR
+LLUVIA
+ALEATORIOS
+REPETICIÓN
+REPRO.
+8¿SEGURO QUE QUIERES ELIMINAR TODOS LOS|DATOS GUARDADOS?
+CONTINUAR PARTIDO
+CONTINUAR ENTRENAMIENTO
+w¿QUIERES VOLVER AL MENÚ PRINCIPAL?*LOS|DATOS NO SALVADOS SE PERDERÁN.*TENDRÁS|QUE VOLVER A JUGAR EL PARTIDO ACTUAL.
+TABLA DE GOLEADORES
+ELIGE COPA
+ELIGE LIGA
+ELIGE RIVAL
+ELIGE EQUIPO
+ELIGE EQUIPACIÓN
+TIROS
+TIROS A PUERTA
+SALTAR
+SALTAR ENTRENAMIENTO
+NIEVE
+SONIDO
+EXTRAS
+ESTADIO
+BERLIN ARENA
+LONDON ARENA
+LUTECIA PARK
+MADRID DOME
+MILANO CAMP
+ENERGÍA
+INICIAR PRÓRROGA
+INICIAR TANDA DE PENALTIS
+INICIAR SEGUNDA PARTE
+SOL
+SÚPER DESAFÍO
+DESAFÍO DE CLUBES
+SÚPER DESAFÍO (CLUBES)_Juega dos temporadas de una liga de clubes|internacional o europea. Empiezas en segunda|división y tienes que conseguir el ascenso en|tu primera temporada.||Si acabas en el primer puesto de la primera|división, ganarás la COPA DE SÚPER DESAFÍO.||DESCENSO: los dos peores equipos de 1a|división.||ASCENSO: los dos mejores equipos de 2a|división.
+DESAFÍO DE NACIONES
+SÚPER DESAFÍO (NACIONES)
+VISIT.
+LOCAL
+EQUIPOS
+IR A SELECCIÓN DE EQUIPO
+SAQUE DE BANDA
+TE1
+TE2
+1a
+2a
+ENTRENAMIENTO
+MODO ENTRENAMIENTO
+%¿QUIERES ENTRENAR ANTES DEL PARTIDO?
+zConviértete en un jugador profesional de PES|Mobile.||Puedes elegir entre un ENTRENAMIENTO LIBRE o|una TANDA DE PENALTIS.
+INTÉNTALO DE NUEVO
+ELEGIR EQUIPACIÓN
+VERSIÓN
+CLIMA
+SÍ
+PRODUCTORES
+DESARROLLADOR JEFE
+!DESARROLLADOR DE CONVERSIÓN JEFE
+DESARROLLADORES
+ARTISTAS
+GESTOR DEL PRODUCTO
+DIRECTOR DEL DEPARTAMENTO MÓVIL
+(Pro Evolution Soccer|PRODUCTOR EJECUTIVO
+(Pro Evolution Soccer|PRODUCTOR PRINCIPAL
+KDE - AYUDANTES DE PRODUCCIÓN
+KDE - AYUDANTE DE DIRECCIÓN
+CONTENIDO GLOBAL

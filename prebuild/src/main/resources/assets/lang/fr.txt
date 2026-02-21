@@ -1,0 +1,294 @@
+À PROPOS
+RETOUR
+POSSESSION DU BALLON
+MEILLEURES
+BONUS
+VOUS AVEZ DÉBLOQUÉ
+LA FORMATION 2-3-5
+LA FORMATION METODO
+LA FORMATION WM
+!LE NIVEAU DE DIFFICULTÉ LÉGENDE
+LA BERLIN ARENA
+BUILD
+CAMÉRA
+TYPE A
+TYPE B
+CHANGER DE FORMATION
+CHANGER DE JOUEUR
+ATT
+DÉF
+GB
+PUI
+VIT
+TEC
+CLUBS
+LA COUPE ANGLAISE
+LA LIGUE D'ANGLETERRE
+"LA COUPE EUROPÉENNE DES CHAMPIONS
+LA COUPE EUROPÉENNE DES CLUBS
+LA COUPE EUROPÉENNE
+LA COUPE FRANÇAISE
+LA LIGUE 1
+LA COUPE INTERNATIONALE
+LA COUPE ITALIENNE
+LA LIGUE ITALIENNE
+LE SUPER CHALLENGE DES CLUBS
+LE SUPER CHALLENGE DES NATIONS
+LA LIGUE DES NATIONS
+LA COUPE ESPAGNOLE
+LA LIGA
+:VOUS ÊTES RELÉGUÉ EN DIVISION 2 POUR LA|SAISON SUIVANTE
+1VOUS MONTEZ EN DIVISION 1 POUR LA SAISON|SUIVANTE
+VOUS AVEZ GAGNÉ
+FÉLICITATIONS !
+ATTAQUE
+DÉFENSE
+HConsultez le menu Aide pour plus de détails|sur les types de contrôles
+COURIR
+UNE TOUCHE
+COMMANDES
+SPÉCIAL
+STANDARD
+�TIR|Maint. 5 ou Ok pour régler la puissance|Diriger le tir||PASSE|5 ou Ok||PASSE LONGUE / CENTRE|Maint. 5 ou Ok||PASSE EN PROFONDEUR|Deux fois 5 ou Ok
+jTIR|Maint. 0 pour régler la puissance|Diriger le tir||PASSE|5 ou Ok||PASSE LONGUE / CENTRE|Maint. 5 ou Ok
+qUNE-DEUX|Double pression sur 5 ou Ok||PASSE EN PROFONDEUR|* ou #||FEINTE DE TIR|Maint. 0 et pression rapide sur 5
+Pression sur 5 ou OK pour passer
+Maint. 5 ou Ok pour tirer
+'Utiliser Tches dir. pour diriger le tir
+*Maint. 5 ou OK pour passe longue ou centre
+*Double press. sur 5 ou OK pour passe prof.
+Pression sur 5 ou Ok pour passer
+Maint. 0 pour tirer
+Tches dir. pour diriger le tir
+*Maint. 5 ou Ok pour passe longue ou centre
+$Pression sur # ou * pour passe prof.
+)Double pression sur 5 ou Ok pour une-deux
+?AUTO-PRESSING|Maint. 5 ou Ok||TACLE|Double pression sur 5 ou Ok
+\AUTO-PRESSING|Maint. 0, 5 ou Ok||TACLE|Pression sur 0||FAIRE SORTIR LE GARDIEN|Maint. # ou *
+'Maint. 5 ou Ok pour presser sur porteur
+'Double pression sur 5 ou Ok pour tacler
+(Maint. 5 ou Ok pour pressing sur porteur
+Maint. 0 pour presser et tacler
+Pression sur 0 pour tacler
+*Maint. # ou * pour faire sortir le gardien�HAUT|2 ou Tches dir./joystick haut||BAS|8 ou Tches dir./joystick bas||GAUCHE|4 ou Tches dir./joystick gauche||DROITE|6 ou Tches dir./joystick droite||HAUT et GAUCHE|1 ou Tches dir./joystick haut et gauche||HAUT et DROITE|3 ou Tches dir./joystick haut et droite||BAS et GAUCHE|7 or Tches dir./joystick bas et gauche||BAS et DROITE|9 or Tches dir./joystick bas et droite||SPRINT|2 pressions sur une direction
++Courir avec 12346789 ou Tches dir./joystick
+)Sprint avec 2 pressions sur une direction
++Courir avec 12346789 ou Tches dir./joystick
+)Sprint avec 2 pressions sur une direction
+�TOUCHE|Presser ou maintenir 5 ou Ok|Presser # ou * pour choisir un receveur||COUP-FRANC / CORNER|Presser ou maintenir 5 ou Ok||PENALTY|Maint. 5 et une direction pour tirer|Presser 1, 2, 3 ou 7, 8, 9 ou Tches dir. pour|plonger
+�TOUCHE|Presser ou maintenir 5 ou Ok|Presser # ou * pour choisir un receveur||COUP-FRANC / CORNER|Presser ou maintenir 0, 5 ou Ok||PENALTY|Maint. 0 et une direction pour tirer|Presser 1, 2, 3 ou 7, 8, 9 ou Tches dir. pour|plonger
+&Presser 5 ou Ok pour une touche courte
+%Maint. 5 ou Ok pour une touche longue
+(Maint. 5 ou Ok pour corner ou coup-franc
+$Maint. 5 ou Ok pour tirer un penalty
+&Presser 5 ou Ok pour une touche courte
+%Maint. 5 ou OK pour une touche longue
+(Maint. 5 ou Ok pour corner ou coup-franc
+Maint. 0 pour un penalty
+CORNER
+CORNERS
+CRÉDITS
+COUPE ANGLAISE
+COUPE EUROP. CHAMPIONS
+COUPE EUROP. CLUBS
+COUPE FRANÇAISE
+COUPE ITALIENNE
+COUPE ESPAGNOLE
+INFOS COUPE
+MODE COUPE
+�Participez à de nombreuses coupes :||COUPE EUROPÉENNE DES CHAMPIONS|4 groupes de 4 équipes.||COUPE EUROPÉENNE DES CLUBS|Tournoi débutant en 8è de finale.||COUPES ANGLAISE, FRANÇAISE, ITALIENNE,|ESPAGNOLE|Tournois débutant en 8è de finale.
+COUPE EURO DES NATIONS
+COUPE INTERNATIONALE
+RÉSULTATS DES COUPES
+'TOUTES LES DONNÉES ONT ÉTÉ EFFACÉES
+DONNÉES SAUVEGARDÉES
+JOUR.
+PAR DÉFAUT
+DÉTAILS
+DIFFICULTÉ
+DIVISION
+FACILE
+FIN DU MATCH
+EFFACER LES DONNÉES
+QUITTER
+jFERMER L'APPLICATION ?*LES DONNÉES NON|SAUVEGARDÉES SERONT PERDUES.*LE MATCH|ACTUEL DEVRA ÊTRE REJOUÉ.
+QUITTER LE JEU
+PROLONGATION
+FORMATIONILe 2-3-5 est aussi|appelé «pyramide»|et est inspiré par|l'école danubienne et|le metodo italien.|Cette formation est|classique entre les|années 1890 et les|années 1940.|Considérée comme|bien équilibrée|comparée aux vieux|1-1-8 et 1-2-7. Les|attaquants et les|milieux doivent|redescendre pour|soutenir les|défenseurs.(WM :|ce système fut créé|au milieu des années|1920 pour réagir aux|modifications de la|règle du hors-jeu.|Cette formation a|donné naissance au|3-4-3 et au 3-5-2|des années plus|tard, avec une|différenciation nette|entre milieux|offensifs et|défensifs et pas de|véritable meneur de|jeu.GLe 3-4-3 est une|formation offensive,|avec seulement trois|défenseurs et 4|milieux qui doivent|s'occuper|d'attaquer et de|défendre. Trois|attaquants offrent|plus de solutions en|attaque et font|peser un danger|constant sur|l'adversaire.|Utilisé par le célèbre|FC Barcelone des|années 1990 et le FC|Barcelone de|2006/2007.�Le 3-5-2 est une|formation offensive|avec deux milieux|latéraux orientés|vers l'attaque. Un ou|deux milieux|défensifs qui doivent|aider la défense,|selon les options|choisies. C'est l'une|des formations les|plus adaptables avec|une grande|importance accordée|aux milieux de|terrain.|Utilisé par les|champions du monde|argentins de 1986 et|les champions du|monde brésiliens de|2002.
+�Le 3-6-1 est une|formation rare avec|un milieu très dense|qui aide les trois|défenseurs et un|attaquant isolé. Les|milieux permettent|de conserver le|ballon et de mener|les attaques.|Alternative prudente|du 3-4-3.�Le 4-3-3 est une|formation plutôt|équilibrée , avec 3|milieux jouant près|les uns des autres|pour protéger la|défense et qui se|déplacent|latéralement pour|couvrir la largeur du|terrain. Les trois|attaquants s'étirent|sur le terrain pour|élargir le jeu et|sont censés revenir|défendre par|derrière.|Utilisé par les|champions du monde|brésiliens de 1962 et|par le grand Ajax|d'Amsterdam des|années 1970.TLe 4-4-2 est la|formation la plus|courante du football|moderne. Les milieux|ont un rôle crucial|car ils participent à|la défense et à|l'attaque. La ligne|des milieux peut être|à plat ou en losange|selon la stratégie de|l'équipe.|Utilisé par la plupart|des clubs européens|et également par les|champions du monde|italiens de 2006.�Le 4-5-1 est une|formation plutôt|défensive même si|les deux milieux|latéraux sont|capables de venir|soutenir le buteur|en attaque. Cette|formation peut être|utilisée pour|préserver un|résultat car la|densité de joueurs|au milieu du terrain|empêche l'adversaire|de développer son|jeu.|Utilisé par les|champions du monde|français en 1998, par|l'Olympique Lyonnais,|ou le FC Liverpool.ULe 5-3-2 fonctionne|avec trois|défenseurs|centraux, l'un|d'entre eux|occupant|éventuellement le|poste de libéro. Il|confère un rôle|important aux|arrières latéraux qui|doivent prendre en|charge les tâches|défensives et|offensives en|occupant toute la|longueur du terrain.|Utilisé par les|champions du monde|ouest-allemands en|1990.*Le 5-4-1 est une|formation|particulièrement|défensive avec un|attaquant isolé et|une défense|regroupée. Utile pour|arracher un 0-0 ou|préserver un score|quand on mène. Pour|l'adversaire c'est|une formation très|difficile à affronter,|avec parfois 9|joueurs de champ|regroupés en|défense.
+FAUTE
+FAUTES
+COUP-FRANC
+ENTRAÎNEMENT LIBRE
+DÉMO GRATUITE
+GALERIE
+DURÉE DE JEU
+MODES DE JEU
+RÉGLAGES DU JEU
+ACHETEZ CE JEU
+�Vous pouvez obtenir maintenant la version|complète auprès de votre opérateur de|jeux !||Il vous suffit de cliquer sur l'icône page|d'accueil du menu principal de votre|téléphone ou d'utiliser l'explorateur de votre|téléphone et d'entrer l'adresse.
+PLUS DE JEUX
+�Découvrez d'autres jeux auprès de votre|opérateur ! Il vous suffit de cliquer sur|l'icône page d'accueil ou d'utiliser|l'explorateur de votre téléphone et d'entrer|l'adresse.
+SIX MÈTRES
+BUTEURS
+C.S.C
+VERS LES RÉSULTATS DE COUPE
+VERS LES RÉSULTATS DE LA LIGUE
+VERS LES RÉSULTATS DE MATCH
+GROUPE
+MI-TEMPS
+DIFFICILE
+AIDE
+INFOS D'AIDE
+INDICATEURS
+�Vous pouvez choisir le type de caméra A ou|B lors des matches :||Le type A correspond au style offensif, il|affiche ce qui est face à vous.||Le type B, sur un angle identique, offre une|vue plus équilibrée entre attaque et défense.
+Le joueur que vous contrôlez
+Coéquipier le mieux placé
+Coéquipier hors-jeu
+�Le curseur qui apparaît dans le coin inférieur|droit de l'écran désigne le menu Pause.|Appuyez sur la touche de sélection droite|pour l'ouvrir.
+�Vous pouvez activer ou désactiver le radar|dans les options. Le radar affiche une vue|large des positions occupées par les joueurs|sur le terrain ainsi que deux autres|informations importantes :
+?Le carré clignotant affiche l'endroit où|se trouve le ballon.
+zLe cercle en surbrillance indique le|joueur contrôlé et le meilleur partenaire|(le mieux placé pour recevoir la passe).
+INFORMATION_Sprinter et exercer un pressing consomme|de l'énergie. Essayez d'être économe ! Quand|un joueur n'est pas en train de sprinter ou|de presser, il récupère progressivement de|l'énergie. Pour consulter votre énergie,|ouvrez le menu CHANGER DE JOUEUR et|pressez gauche ou droite pour alterner|entre la position d'un joueur et son niveau|de stamina.
+MATCH IMMÉDIAT
+>Lancer un match rapidement avec 2 équipes|choisies au hasard.
+COUP D'ENVOI
+LANGUE
+ANGLAIS
+FRANÇAIS
+ALLEMAND
+ITALIEN
+PORTUGAIS
+ESPAGNOL
+LIGUE ANGLAISE
+LIGUE FRANÇAISE
+LIGUE 1
+LIGUE ITALIENNE
+LIGUE ESPAGNOLE
+LA LIGA
+MODE LIGUE
+JFaire une ligue avec votre équipe nationale|ou club européen préféré.
+RÉSULTATS DE LA LIGUE
+CLASSEMENT
+É
+BC
+DB
+BP
+D
+J
+V
+LÉGENDE
+CHARGER DONNÉES
+CHARGEMENT
+ARRÊTS DE JEU
+MENU PRINCIPAL
+DÉTAILS DU MATCH
+MATCHES DU JOUR
+MODE MATCH
+8Faire un match amical avec les réglages de|votre choix.
+RÉSULTATS DU MATCH
+RÉGLAGES DU MATCH
+MINUTES
+ÉQUIPES NATIONALES
+NATIONS
+LIGUE DES NATIONS
+NSi vous lancez une nouvelle partie la|sauvegarde précédente sera supprimée.
+NOUVELLE COUPE
+NOUVELLE LIGUE
+SUIVANT
+MATCHES SUIVANTS
+SAISON SUIVANTE
+NON
+NORMAL
+DÉSACTIVÉ
+HORS-JEU
+HORS-JEU
+ACTIVÉ
+ADVERSAIRE
+OPTIONS
+PAUSE
+MENU PAUSE
+PENALTY
+TIRS AU BUT
+PEN
+JOUER
+FAIRE UN AUTRE MATCH
+SAC
+AV
+MDF
+GB
+AL
+MO
+AL
+ML
+AI
+REFAIRE LE MATCH
+APPUYER SUR UNE TOUCHE
+RADAR
+PLUIE
+ALÉATOIRES
+RALENTI
+LECT.
+2VOULEZ-VOUS VRAIMENT EFFACER TOUTES VOS|DONNÉES ?
+REPRENDRE LE MATCH
+REPRENDRE L'ENTRAÎNEMENT
+oREVENIR AU MENU PRINCIPAL ?*LES DONNÉES NON|SAUVEGARDÉES SERONT PERDUES.*LE MATCH|ACTUEL DEVRA ÊTRE REJOUÉ.
+CLASSEMENT DES BUTEURS
+CHOISIR LA COUPE
+CHOISIR LA LIGUE
+CHOISIR L'ADVERSAIRE
+CHOISIR VOTRE ÉQUIPE
+CHOISIR VOTRE TENUE
+TIRS
+TIRS CADRÉS
+PASSER
+PASSER L'ENTRAÎNEMENT
+NEIGE
+SON
+SPÉCIALES
+STADE
+BERLIN ARENA
+LONDON ARENA
+LUTECIA PARK
+MADRID DOME
+MILANO CAMP
+ÉNERGIE
+LANCER LES PROLONGATIONS
+LANCER LES TIRS AU BUT
+LANCER LA SECONDE MI-TEMPS
+SOLEIL
+SUPER CHALLENGE
+CHALLENGE DES CLUBS
+SUPER CHALLENGE (CLUBS)nFaire 2 saisons d'une ligue avec équipes|nationales ou clubs européens. Vous|commencez en 2ème division et vous devez|monter en 1ère division à la fin de la saison.||Terminez à la première place de la 1ère|division pour remporter la COUPE DU SUPER|CHALLENGE.||RELÉGATION : les deux dernières équipes de D1.||PROMOTION : les deux meilleures équipes de|D2.
+CHALLENGE DES NATIONS
+SUPER CHALLENGE (NATIONS)
+EXTÉR.
+DOM.
+ÉQUIPES
+VERS LE CHOIX D'ÉQUIPE
+TOUCHE
+PR1
+PR2
+1ère
+2ème
+ENTRAÎNEMENT
+MODE ENTRAÎNEMENT
+'FAIRE UN ENTRAÎNEMENT AVANT LE MATCH ?
+�Découvrez comment devenir un joueur|professionnel de PES Mobile.||Vous avez le choix entre un ENTRAÎNEMENT|LIBRE et une séance de TIRS AU BUT.
+ESSAYEZ À NOUVEAU
+CHOIX DE TENUE
+VERSION
+MÉTÉO
+OUI
+PRODUCTEURS
+DÉVELOPPEUR EN CHEF
+DÉVELOPPEUR PORTAGE EN CHEF
+DÉVELOPPEURS
+ARTISTES
+RESPONSABLE PRODUIT
+"DIRECTEUR DES ACTIVITÉS PORTABLES
+)Pro Evolution Soccer|PRODUCTEUR EXÉCUTIF
+)Pro Evolution Soccer|PRODUCTEUR PRINCIPAL
+PRODUCTEURS KDE-J
+DIRECTEUR KDE-J
+CONTENU GLOBAL
