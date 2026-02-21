@@ -1,0 +1,289 @@
+ÜBER
+ZURÜCK
+BALLBESITZ
+BESTE
+BONUS
+FREIGESCHALTET:
+FORMATION 2-3-5
+METODO-FORMATION
+WM-FORMATION
+SCHWIERIGKEIT 'LEGENDE'
+BERLINER ARENA
+BUILD
+KAMERA
+TYP A
+TYP B
+FORMATION ÄNDERN
+SPIELER WECHSELN
+AG
+VT
+TW
+KR
+GS
+TE
+KLUBS
+ENGLISCHER POKAL
+ENGLISCHE LIGA
+POKAL DER EUROPÄISCHEN MEISTER
+POKAL DER EUROPÄISCHEN KLUBS
+EUROPÄISCHER POKAL
+FRANZÖSISCHER POKAL
+LIGUE 1
+INTERNATIONALER POKAL
+ITALIENISCHER POKAL
+ITALIENISCHE LIGA
+SUPER-CHALLENGE DER KLUBS
+SUPER-CHALLENGE DER NATIONEN
+LIGA DER NATIONEN
+SPANISCHER POKAL
+LA LIGA
+/SIE STEIGEN IN DER NÄCHTEN SAISON IN LIGA 2 AB
+0SIE STEIGEN IN DER NÄCHTEN SAISON IN LIGA 1 AUF
+GEWONNEN:
+HERZLICHEN GLUCKWUNSCH!
+ANGRIFF
+VERT.
+OWeitere Informationen zu den einzelnen|Steuerungsarten finden Sie im Hilfemenü
+LAUFEN
+EINZELTASTE
+STEUERUNG
+EXTRAS
+STANDARD
+�SCHUSS|Für Auswahl der Stärke 5 oder OK gedrückt|halten Schuss lenken||PASSEN|5 oder OK||LANGER PASS/FLANKE|5 oder OK gedrückt halten||LAUFPASS|Zwei Mal 5 oder OK
+�SCHUSS|Für Auswahl der Stärke 0 gedrückt halten|Schuss lenken||PASSEN|5 oder OK||LANGER PASS/FLANKE|5 oder OK gedrückt halten
+qDOPPELPASS|Zwei Mal 5 oder OK||LAUFPASS|* oder #||ANGETÄUSCHTER SCHUSS|0 gedrückt halten und schnell 5 drücken
+Passen: 5 oder OK
+%Schießen: 5 oder OK gedrückt halten
+,Schuss lenken: Gewünschte Richtung drücken
+*Langer Pass/Flanke: 5 oder OK gedr. halten
+Laufpass: Zwei Mal 5 oder OK
+Passen: 5 oder OK
+Schießen: 0 gedrückt halten
+,Schuss lenken: Gewünschte Richtung drücken
+*Langer Pass/Flanke: 5 oder OK gedr. halten
+Laufpass: # oder *
+Doppelpass: 5 oder OK
+GAUTOM. PRESSING|5 oder OK gedrückt halten||TACKLING|Zwei Mal 5 oder OK
+vAUTOM. PRESSING|0, 5 oder OK gedrückt halten||TACKLING|0 drücken||MIT TORWART HERAUSKOMMEN|# oder * gedrückt halten
+)Pressing auf Ball: 5 oder OK gedr. halten
+Tackling: Zwei Mal 5 oder OK
+)Pressing auf Ball: 5 oder OK gedr. halten
+)Pressing und Tackling: 0 gedrückt halten
+Tackling: 0
+%TW herausholen: # oder * gedr. Halten�HOCH|2 oder Richtungstasten/Joystick hoch||RUNTER|8 or Richtungstasten/Joystick runter||LINKS|4 oder Richtungstasten/Joystick links||RECHTS|6 oder Richtungstasten/Joystick rechts||HOCH und LINKS|1 oder Richtungstasten/Joystick hoch und|links||HOCH und RECHTS|3 or Richtungstasten/Joystick hoch und|rechts||RUNTER und LINKS|7 oder Richtungstasten/Joystick runter und|links||RUNTER und RECHTS|9 oder Richtungstasten/Joystick runter und|rechts||RENNEN|Laufrichtung zwei Mal drücken
+/Laufen: 123456789 oder|Richtungstasten/Joystick
+&Rennen: Laufrichtung zwei Mal drücken
+/Laufen: 123456789 oder|Richtungstasten/Joystick
+&Rennen: Laufrichtung zwei Mal drückenEINWURF|5 oder OK drücken oder gedrückt halten|Auswahl des Zielspielers mit # oder *||FREISTOSS / ECKE|5 oder OK drücken oder gedrückt halten||ELFMETER|5 gedrückt halten und Schussrichtung|drücken Schwalbe mit 1, 2, 3 oder 7, 8, 9|oder RichtungstastenEINWURF|5 oder OK drücken oder gedrückt halten|Auswahl des Zielspielers mit # oder *||FREISTOSS / ECKE|0, 5 oder OK drücken oder gedrückt halten||ELFMETER|0 gedrückt halten und Schussrichtung|drücken Schwalbe mit 1, 2, 3 oder 7, 8, 9|oder Richtungstasten
+Kurzer Einwurf: 5 oder OK
+*Langer Einwurf: 5 oder OK gedrückt halten
+*Ecke/Freistoß: 5 oder OK gedrückt halten
+$Elfmeter: 5 oder OK gedrückt halten
+Kurzer Einwurf: 5 oder OK
+*Langer Einwurf: 5 oder OK gedrückt halten
+*Ecke/Freistoß: 5 oder OK gedrückt halten
+Elfmeter: 0 gedrückt halten
+ECKBALL
+ECKBÄLLE
+MITWIRKENDE
+ENGLISCHER POKAL
+POKAL DER EUROP. MEISTER
+POKAL DER EUROP. KLUBS
+FRANZÖSISCHER POKAL
+ITALIENISCHER POKAL
+SPANISCHER POKAL
+POKALINFO
+POKALMODUS~Sie können um viele verschiedene Pokale|spielen:||POKAL DER EUROPÄISCHEN MEISTER|4 Gruppen mit 4 Mannschaften.||POKAL DER EUROPÄISCHEN KLUBS|16 Mannschaften in einem Turnier mit Finale,|Halbfinale, Viertelfinale und Achtelfinale.||ENGLISCHER, FRANZÖSISCHER, ITALIENISCHER,|SPANISCHER POKAL|16 Mannschaften in einem Turnier mit Finale,|Halbfinale, Viertelfinale und Achtelfinale.
+POKAL DER EURO NATIONEN
+INTERNATIONALER POKAL
+POKALERGEBNISSE
+ALLE DATEN WURDEN GELÖSCHT
+DATEN GESPEICHERT
+TAG
+STANDARD
+INFOS
+SCHWIERIGKEIT
+LIGA
+LEICHT
+SPIELENDE
+DATEN LÖSCHEN
+BEENDEN
+�MÖCHTEN SIE DIE ANWENDUNG BEENDEN?*ALLE|NICHT GESPEICHERTEN DATEN GEHEN|VERLOREN.*DAS AKTUELLE SPIEL MUSS NOCH MAL|GESPIELT WERDEN.
+SPIEL BEENDEN
+VERLÄNGERUNG
+FORMATION�Die 2-3-5-Formation|wird auch als|«Pyramide»|bezeichnet. Auf ihr|basiert auch die|Donauschule und der|Metodo. Dies ist die|Standard- Formation,|die etwa ab 1890 bis|in die 40er Jahre des|vergangenen|Jahrhunderts|verwendet wurde.|Sie stellt im|Gegensatz zu den|alten 1-1-8- und|1-2-7-Strategien eine|ausgeglichene|Formation dar.|Stürmer und|Mittelfeldspieler|gingen damals immer|zurück, wenn die|Verteidigung|Verstärkung|brauchte.kWM:|Dieses System|stammt aus der|Mitte der 20er Jahre|und stellt eine|Anpassung an die|veränderte|Abseitsregel dar. Aus|dieser Formation|entwickelten sich|Jahre später die|3-4-3-Taktik und die|3-5-2-Taktik. Bei|diesen Strategien|wird streng|zwischen offensiven|und defensiven|Mittelfeldspielern|unterschieden. Diese|Systeme beinhalten|keinen echten|Spielmacher.jDie 3-4-3-Taktik ist|eine offensive|Formation, bei der|sich nur drei|Verteidiger und 4|Mittelfeldspieler bei|offensiven und|defensiven Aktionen|gegenseitig|unterstützen. Durch|die drei Stürmer wird|die Offensive|gestärkt und der|Gegner unter|Dauerdruck gesetzt.|Verwendung fand|dieses System 1990|beim FC Barcelona|und in der Saison|2006/07 beim FC|Barcelona.�Die 3-5-2-Strategie|stellt eine offensive|Formation mit zwei|offensiven|Flügelspielern dar. Die|Abwehr wird durch|wahlweise einen oder|zwei zentrale|Mittelfeldleute|verstärkt. Diese|Aufstellung ist eine|der flexibelsten|Formationen. Die|Mittelfeldspieler sind|dabei von|ausschlaggebender|Bedeutung.|Verwendet haben|diese Taktik die|Argentinier bei ihrem|WM-Titel im Jahr 1986|sowie die Brasilianer|bei ihrem WM-Sieg im|Jahr 2002.5Die 3-6-1-Taktik wird|selten verwendet.|Hierbei ist das|Mittelfeld sehr dicht|gestaffelt und|unterstützt die|dreiköpfige Abwehr|sowie den einzelnen|Stürmer. Die|Mittelfeldspieler|müssen dabei den|Ball sichern und|versuchen, Druck|aufzubauen. Diese|Taktik ist eine|vorsichtige|Alternative zum|3-4-3-System.#4-3-3-System: Eine|ziemlich|ausgewogene|Formation mit 3|Mittelfeldspielern, die|sehr eng stehen und|dadurch die Abwehr|abschirmen. Das|Mittelfeld muss|gleichzeitig das Spiel|seitlich verschieben|und die Breite des|Feldes ausnutzen. Die|drei Stürmer|versuchen, mit|kreuzenden|Laufwegen den|Angriff in die Breite|zu ziehen. Daneben|müssen sie das|Mittelfeld auch beim|Tackling|unterstützen.|Das System hat|Brasilien bei der|Weltmeisterschaft|1962 den Sieg|beschert. Auch die|berühmte|70er-Mannschaft von|Ajax Amsterdam|spielte mit diesem|System.�Das 4-4-2-System ist|die Formation, die|beim Fußball am|häufigsten|verwendet wird. Den|Mittelfeldspielern|kommt eine zentrale|Rolle zu, da sie sich|sowohl in den Angriff|als auch in die|Abwehr einschalten|müssen. Dabei|können die|Mittelfeldspieler je|nach Strategie auf|einer Linie stehen|oder rautenförmig|verteilt sein.|Diese Spielweise|entspricht der|Taktik der meisten|europäischen|Mannschaften. Auch|Italien hat bei der|WM 2006 diese|Strategie genutzt,|um sich den Pokal zu|holen.�Die 4-5-1-Taktik stellt|eine ziemlich|defensive Aufstellung|dar, bei der die|beiden Flügelspieler|den einzelnen|Stürmer|unterstützen|können. Diese|Formation kann dazu|genutzt werden,|eine Führung zu|sichern, da es der|Gegner bei dem dicht|gestaffelten|Mittelfeld schwer|hat, sein eigenes|Spiel aufzubauen.|Frankreich hatte 1998|im Endspiel der WM|mit diesem System|Erfolg.|Weitere|Mannschaften, die|diese Strategie|nutzen, sind unter|anderem Olympique|Lyonnais und der FC|Liverpool.�Bei der|5-3-2-Formation|stehen drei zentrale|Verteidiger auf dem|Feld, von denen|einer unter|Umständen als|Ausputzer agiert.|Dadurch kommt den|beiden|Außenverteidigern|eine wichtige Rolle|zu: Sie müssen sich|sowohl in die Abwehr|als auch in den|Angriff einschalten,|indem sie ständig|ebenfalls vorstoßen|und sich|zurückziehen|müssen.|Die deutsche|Mannschaft sicherte|sich 1990 mit dieser|Taktik den WM-Titel.�Die 5-4-1-Taktik kann|als besonders|defensiv bezeichnet|werden, da hierbei|nur ein einziger|Stürmer, jedoch eine|sehr kompakte|Abwehr auf dem Feld|steht. Die Strategie|kommt zum Einsatz,|wenn auf|Unentschieden|gespielt wird oder|eine Führung|gehalten werden soll.|Der Gegner hat bei|dieser Aufstellung|einen schweren|Stand, da er gegen|9 defensiv|eingestellte Spieler|anstürmen muss.
+FOUL
+FOULS
+FREISTOSS
+FREIES TRAINING
+FREIE TESTVERSION
+GALERIE
+SPIELLÄNGE
+SPIELMODI
+GRUNDEINSTELLUNGEN
+HOL' DIR DAS SPIEL
+�Sie können sich jetzt die Vollversion aus|dem Spieleangebot Ihres Netzbetreibers holen!||Klicken Sie einfach auf das Homepage-Icon im|Hauptmenü Ihres Mobiltelefons oder|verwenden Sie Ihren Telefonbrowser und|geben die Adresse ein
+WEITERE SPIELE
+�Holen Sie siech weitere fantastische Spiele|aus dem Angebot Ihres Netzbetreibers!|Klicken Sie einfach auf das Homepage-Icon im|Hauptmenü Ihres Mobiltelefons oder|verwenden Sie Ihren Telefonbrowser und|geben die Adresse ein!
+ABSTOSS
+TORSCHÜTZEN
+ET
+ZU DEN POKALERGEBNISSEN
+ZU DEN LIGAERGEBNISSEN
+ZU DEN SPIELERGEBNISSEN
+GRUPPE
+HALBZEIT
+SCHWIERIG
+HILFE
+HILFEINFO
+INDIKATOREN4Sie können im Spiel entweder den|Kameramodus A oder B wählen:||Der Kameratyp A ist eher offensiv|ausgerichtet, d. h., der Kameraausschnitt|zeigt das Feld vor Ihnen.||Kamera B ist auf den gleichen Winkel|eingestellt, liefert aber vom Fokus her einen|ausgeglichenen Eindruck zwischen Offensive|und Defensive.
+Aktuell gesteuerter Spieler
+Bestpositionierter Mitspieler
+Mitspieler im Abseits
+oDer Cursor unten rechts repräsentiert das|Pause-Menü. Drücken Sie die rechte|Auswahltaste, um es zu öffnen.
+�Sie können das Radar in den Optionen ein-|oder ausschalten. Das Radar zeigt Ihnen die|Position der Spieler auf dem Feld und liefert|Ihnen zwei wichtige Informationen:
+*Das blinkende Quadrat steht für den Ball.
+�Ein markierter Kreis steht für den|Spieler, den Sie gerade steuern, sowie|den bestpositionierten Mitspieler|(potenzielles Passziel)
+INFORMATION�Rennen und Pressing kosten Kondition.|Verwenden Sie diese beiden Funktionen daher|nicht zu oft! Die Zeit, in der ein Spieler weder|rennt noch Druck auf den Gegner ausübt,|wird zum Auffüllen der Konditionsreserven|genutzt. Rufen Sie das Menü SPIELER|WECHSELN auf, um sich Ihren Konditionsstand|anzusehen. Sie können dort nach links oder|rechts zwischen der Spielerposition und dem|Konditionsstatus umschalten.
+SOFORT SPIELEN
+SStartet ein schnelles Spiel mit zwei per|Zufallsprinzip ausgewählten Mannschaften.
+ANSTOSS
+SPRACHE
+ENGLISCH
+FRANZÖSISCH
+DEUTSCH
+ITALIENISCH
+PORTUGIESISCH
+SPANISCH
+ENGLISCHE LIGA
+FRANZÖSISCHE LIGA
+LIGUE 1
+ITALIENISCHE LIGA
+SPANISCHE LIGA
+LA LIGA
+LIGAMODUS
+PSpielen Sie eine Liga mit den Nationalteams|oder europäischen Klubs Ihrer Wahl.
+LIGAERGEBNISSE
+LIGATABELLE
+U
+TG
+TD
+TF
+N
+P
+S
+LEGENDE
+DATEN LADEN
+LADEN
+NACHSPIELZT.
+HAUPTMENÜ
+SPIELDATEN
+SPIELE DES TAGES
+SPIELMODUS
+DSpielen Sie ein Freundschaftsspiel mit den|Einstellungen Ihrer Wahl.
+SPIELERGEBNISSE
+SPIELEINSTELLUNGEN
+MINUTEN
+NATIONALMANNSCH.
+NATIONEN
+NATIONEN-LIGA
+NWenn Sie ein neues Spiel starten, wird das|zuvor gespeicherte Spiel gelöscht.
+NEUER POKAL
+NEUE LIGA
+WEITER
+NÄCHSTE SPIELE
+NÄCHSTE SAISON
+NEIN
+NORMAL
+AUS
+ABSEITS
+ABSEITSSTELLUNGEN
+EIN
+GEGNER
+OPTIONEN
+PAUSE
+PAUSE-MENÜ
+ELFMETER
+ELFMETERSCHIESSEN
+EMT
+SPIELEN
+WEITERES SPIEL
+VST
+MS
+DMF
+TW
+VT
+OMF
+SVT
+SMF
+FS
+SELBES SPIEL NOCH EINMAL
+BITTE BELIEBIGE TASTE DRÜCKEN
+RADAR
+REGEN
+ZUFALL
+WIEDERHOLUNG
+ABSPIEL.
+*MÖCHTEN SIE WIRKLICH ALLE DATEN LÖSCHEN?
+SPIEL FORTSETZEN
+TRAINING FORTSETZEN
+�MÖCHTEN SIE WIEDER ZUM HAUPTMENÜ|ZURÜCK?*ALLE NICHT GESPEICHERTEN DATEN|GEHEN VERLOREN.*DAS AKTUELLE SPIEL MUSS|NOCH MAL GESPIELT WERDEN.
+TORSCHÜTZENLISTE
+POKAL AUSWÄHLEN
+LIGA AUSWÄHLEN
+GEGNER AUSWÄHLEN
+MANNSCHAFT AUSWÄHLEN
+TRIKOT AUSWÄHLEN
+SCHÜSSE
+TORSCHÜSSE
+WEITER
+TRAINING ÜBERSPRINGEN
+SCHNEE
+TON
+SPEZIALEN
+STADION
+BERLINER ARENA
+LONDONER ARENA
+LUTECIA PARK
+MADRIDER DOM
+MAILÄNDER CAMP
+KONDITION
+VERLÄNGERUNG STARTEN
+ELFMETERSCHIESSEN STARTEN
+2. HÄLFTE STARTEN
+SONNE
+SUPER-CHALLENGE
+KLUB-CHALLENGE
+SUPER-CHALLENGE (KLUBS)`Erleben Sie 2 Saisons einer internationalen|oder europäischen Klub-Liga. Sie beginnen in|der 2. Liga und müssen bis zum Ende der|Saison in die 1. Liga aufgestiegen sein.||Wenn Sie den ersten Tabellenplatz der 1 Liga|erreichen, gewinnen Sie den POKAL DER|SUPER-CHALLENGE.||ABSTIEG: Letzte zwei L1-Mannschaften.||AUFSTIEG: Oberste zwei L2-Mannschaften.
+NATIONEN-CHALLENGE
+SUPER-CHALLENGE (NATIONEN)
+AUS.
+HEIM
+MANNSCHAFTEN
+ZUR MANNSCHAFTSAUSWAHL
+EINWURF
+VL1
+VL2
+1.
+2.
+TRAINING
+TRAININGSMODUS
+2MÖCHTEN SIE VOR DEM SPIEL ERST EINMAL|TRAINIEREN?
+�Lernen Sie, wie man zum professionellen PES|Mobile-Spieler wird.||Sie haben die Wahl zwischen einem FREIEN|TRAINING und ELFMETERSCHIESSEN.
+ERNEUTER VERSUCH
+TRIKOTWAHL
+VERSION
+WETTER
+JA
+PRODUZENTEN
+LEITENDER ENTWICKLER
+LEITENDER ENTWICKLER PORTING
+ENTWICKLER
+GRAFIKER
+PRODUKTMANAGER
+LEITUNG MOBILE BUSINESS
+%Pro Evolution Soccer|SENIOR PRODUZENT
+(Pro Evolution Soccer|LEITENDER PRODUZENT
+KDE-J-PRODUZENTEN
+KDE-J-DIREKTOR
+GLOBALER INHALT

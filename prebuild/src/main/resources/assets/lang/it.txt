@@ -1,0 +1,296 @@
+INFO
+INDIETRO
+POSSESSO PALLA
+MIGLIORI
+BONUS
+HAI SBLOCCATO
+LA FORMAZIONE 2-3-5
+IL METODO
+LA FORMAZIONE WM
+"IL LIVELLO DI DIFFICOLTÀ LEGGENDA
+LA BERLIN ARENA
+BUILD
+VISUALE
+TIPO A
+TIPO B
+CAMBIA FORMAZIONE
+CAMBIA GIOCATORE
+ATT
+DIF
+PT
+POT
+VEL
+TEC
+CLUB
+LA COPPA INGLESE
+IL CAMPIONATO INGLESE
+LA COPPA EUROPEA CAMPIONI
+LA COPPA EUROPEA CLUB
+LA COPPA EUROPEA
+LA COPPA FRANCESE
+IL LIGUE 1
+LA COPPA INTERNAZIONALE
+LA COPPA ITALIANA
+IL CAMPIONATO ITALIANO
+IL SUPER CHALLENGE CLUB
+IL SUPER CHALLENGE NAZIONI
+IL CAMPIONATO NAZIONI
+LA COPPA SPAGNOLA
+LA LIGA
+)SEI STATO RETROCESSO IN SECONDA DIVISIONE
+%SEI STATO PROMOSSO IN PRIMA DIVISIONE
+HAI VINTO
+COMPLIMENTI!
+ATTACCO
+DIFESA
+=Consulta il menu Guida per maggiori dettagli|sui vari comandi
+CORSA
+UN TOCCO
+COMANDI
+SPECIAL
+STANDARD
+�TIRO|Tieni premuto 5 o OK per impostare la|potenza Scegli la direzione del tiro||PASSAGGIO|Premi 5 o OK||PASSAGGIO LUNGO / CROSS|Tieni premuto 5 o OK||PALLA FILTRANTE|Premi due volte 5 o OK
+�TIRO|Tieni premuto 0 per impostare la potenza|Scegli la direzione del tiro||PASSAGGIO|Premi 5 o OK||PASSAGGIO LUNGO / CROSS|Tieni premuto 5 o OK
+pUNO-DUE|Premi due volte 5 o OK||PALLA FILTRANTE|Premi * o #||FINTA DI TIRO|Tieni premuto 0 e premi rapidamente 5
+Premi 5 o OK per passare
+Tieni premuto 5 o OK per tirare
+%Premi i tasti dir. per direzione tiro
+*Tieni premuto 5 o OK per pass. lungo/cross
+*Premi due volte 5 o OK per palla filtrante
+Premi 5 o OK per passare
+Tieni premuto 0 per tirare
+%Premi i tasti dir. per direzione tiro
+*Tieni premuto 5 o OK per pass. lungo/cross
+Premi # o * per palla filtrante
+"Premi due volte 5 o OK per uno-due
+?PRESSING|Tieni premuto 5 o OK||CONTRASTO|Premi due volte 5 o OK
+PPRESSING|Premi 0, 5 o OK||CONTRASTO|Premi 0||USCITA PORTIERE|Tieni premuto # o *
+!Tieni premuto 5 o OK per pressare
+$Premi due volte 5 o OK per contrasto
+!Tieni premuto 5 o OK per pressare
+(Tieni premuto 0 per pressare e contrasto
+Premi 0 per contrasto
+'Tieni premuto # o * per uscita portiereTSU|2 o i tasti dir. su||GIÙ|8 o i tasti dir. giù||SINISTRA|4 o i tasti dir. sinistra||DESTRA|6 o i tasti dir. destra||SU e SINISTRA|1 o i tasti dir. su e sinistra||SU e DESTRA|3 o i tasti dir. su e destra||GIÙ e SINISTRA|7 o i tasti dir. giù e sinistra||GIÙ e DESTRA|9 o i tasti dir. giù e destra||SCATTO|Premi due volte un tasto dir.
+)Premi 12346789 o i tasti dir. per correre
+*Premi un tasto dir. due volte per scattare
+)Premi 12346789 o i tasti dir. per correre
+*Premi un tasto dir. due volte per scattare
+�RIMESSA|Premi o tieni premuto 5 o OK. Premi # o *|per scegliere un compagno||PUNIZIONE / ANGOLO|Premi o tieni premuto 5 o OK||RIGORE|Tieni premuto 5 e un tasto dir. per tirare.|Premi 1, 2, 3 o 7, 8, 9 o i tasti dir. per|parare
+�RIMESSA|Premi o tieni premuto 5 o OK. Premi # o *|per scegliere un compagno||PUNIZIONE / ANGOLO|Premi o tieni premuto 0, 5 o OK||RIGORE|Tieni premuto 0 e un tasto dir. per tirare.|Premi 1, 2, 3 o 7, 8, 9 o i tasti dir. per|parare
+Premi 5 o OK per rimessa corta
+&Tieni premuto 5 o OK per rimessa lunga
+)Tieni premuto 5 o OK per angolo/punizione
+Tieni premuto 5 o OK per rigore
+Premi 5 o OK per rimessa corta
+&Tieni premuto 5 o OK per rimessa lunga
+)Tieni premuto 5 o OK per angolo/punizione
+Tieni premuto 0 per rigore
+ANGOLO
+ANGOLI
+RICONOSCIMENTI
+COPPA INGLESE
+COPPA EUROPEA CAMPIONI
+COPPA EUROPEA CLUB
+COPPA FRANCESE
+COPPA ITALIANA
+COPPA SPAGNOLA
+INFO COPPA
+MODALITÀ COPPA
+�Gioca una serie di coppe:||COPPA EUROPEA CAMPIONI|4 gruppi di 4 squadre.||COPPA EUROPEA CLUB|16 squadre in tabellone a eliminazione diretta.||COPPA INGLESE, FRANCESE, ITALIANA, SPAGNOLA|16 squadre in tabellone a eliminazione diretta.
+COPPA NAZIONI EURO
+COPPA INTERNAZIONALE
+RISULTATI DELLA COPPA
+!TUTTI I DATI SONO STATI ELIMINATI
+DATI SALVATI
+GIOR.
+PREDEF.
+DETTAGLI
+DIFFICOLTÀ
+DIVISIONE
+FACILE
+FINE DELLA PARTITA
+ELIMINA DATI
+ESCI
+oVUOI USCIRE DALL'APPLICAZIONE?*OGNI DATO NON|SALVATO ANDRÀ PERSO.*LA PARTITA CORRENTE|DOVRÀ ESSERE RIGIOCATA.
+TERMINARE GIOCO
+SUPPLEMENTARI
+FORMAZIONE0Il modulo 2-3-5,|chiamato anche «la|piramide», ispirò la|Scuola danubiana e il|Metodo. Era il modulo|standard dal 1890|circa fino agli anni|'40: lo si riteneva un|modulo bilanciato, se|paragonato ai più|datati 1-1-8 e 1-2-7.|Attaccanti e|centrocampisti erano|pronti a rientrare in|caso di necessità.
+�Il WM è un sistema|creato nel corso|degli anni '20 in|risposta a una|modifica nelle regole|del fuorigioco. È il|progenitore del 3-4-3|e del 3-5-2 e|distingue|chiaramente tra fase|offensiva e fase|difensiva, non|utilizzando un|regista vero.=Il 3-4-3 è un modulo|piuttosto|spregiudicato, che|prevede solo tre|difensori, mentre ai|quattro|centrocampisti viene|richiesto di dividersi|in attacco e difesa.|Le tre punte|consentono attacchi|più intensi e sono un|pericolo costante.|Usato da tre grandi|squadre: l'FC|Barcelona anni '90 e|l'FC Barcelona|2006/2007.;Il 3-5-2 è un modulo|offensivo che impiega|due esterni alti sulla|mediana. Un centrale|di centrocampo deve|assistere la difesa,|o addirittura due a|seconda della tattica|scelta. È uno dei|moduli più eclettici e|dà grande|importanza al|centrocampo.|Usato da due|campioni del Mondo:|Argentina 1986 e|Brasile 2002.
+�Il 3-6-1 non viene|usato quasi mai: è|un modulo che|prevede ben sei|centrocampisti, tre|difensori e una sola|punta. La folta linea|mediana garantisce il|possesso di palla e|una solida manovra.|È un'alternativa|prudente al 3-4-3.FIl 4-3-3 è un modulo|equilibrato, con tre|centrocampisti che|si muovono in un|fazzoletto per|proteggere la difesa|e lateralmente per|coprire tutta la|mediana. Le tre|punte si dividono la|zona di attacco e|hanno il «dovere» di|rientrare.|Usato dal Brasile|campione del Mondo|1962 e dal celebre|Ajax Amsterdam|degli anni '70.(Il 4-4-2 è il modulo|più utilizzato nel|calcio di oggi. I|centrocampisti|svolgono un ruolo|cruciale, dovendo|fare la spola fra|difesa e attacco. La|mediana può essere|in linea o a rombo.|È attualmente usato|da moltissimi club|europei ed è stato|impiegato dall'Italia|campione del Mondo|2006.XIl 4-5-1 è un modulo|difensivo, ma i due|esterni di|centrocampo spesso|giocano ala per dare|sostegno all'unica|punta. Può essere|usato per difendere|un vantaggio, dato|che la folta mediana|non permette agli|avversari di fare|gioco.|Usato dalla Francia|campione del Mondo|1998 e attualmente,|tra le altre, da|Olympique Lyonnais e|Liverpool FC.
+�Il 5-3-2 è un modulo|che prevede tre|difensori centrali|(solitamente un|libero). Dà grande|importanza agli|esterni, che devono|macinare chilometri|sulle fasce per|appoggiare difesa e|attacco.|Usato dalla Germania|Ovest campione del|Mondo 1990.Il 5-4-1 è un modulo|prettamente|difensivo, con una|sola punta e una|difesa ben fornita.|Può essere impiegato|per tenere lo 0-0 o|difendere un|vantaggio. Gli|avversari fanno|fatica a giocarci|contro, dato che|sono potenzialmente|nove i giocatori che|ripiegano in difesa.
+FALLO
+FALLI
+PUNIZIONE
+ALLENAMENTO LIBERO
+POVA GRATUITA
+GALLERIA
+TEMPO PARTITA
+MODALITÀ PARTITA
+IMPOSTAZIONI PARTITA
+COMPRA IL GIOCO
+�Scarica la versione completa del gioco dal|tuo operatore ora!||Fai clic sull'icona della homepage nel menu|principale del tuo telefono o usa il browser|del tuo telefono e inserisci l'indirizzo!
+ALTRI GIOCHI
+�Scarica altri grandi giochi dal servizio di|giochi del tuo operatore! Fai clic sull'icona|delle homepage nel menu principale del tuo|telefono o usa il browser del tuo telefono e|inserisci l'indirizzo!
+RIMESSA DAL FONDO
+MARCATORI
+AUT
+VAI AI RISULTATI DELLA COPPA
+VAI AI RISULTATI DEL CAMPIONATO
+VAI AI RISULTATI DELLA PARTITA
+GRUPPO
+INTERVALLO
+DIFFICILE
+GUIDA
+INFO GUIDA
+INDICATORI
+�Puoi scegliere fra due visuali:||Il Tipo A è una visuale di attacco, che|mostra ciò che succede davanti a te.||Il Tipo B ha la stessa angolazione, ma è|maggiormente equilibrata fra la linea di|attacco e quella di difesa.
+"Il giocatore che stai controllando
+Il compagno meglio posizionato
+Il tuo compagno è in fuorigioco
+xIl piccolo cursore in basso a destra dello|schermo indica il menu di pausa. Premi il|tasto funzione destro per accedere.
+�Puoi attivare o disattivare il radar nelle|opzioni. Il radar mostra una visione d'insieme|della tua posizione sul campo e ti fornisce|due informazioni molto importanti:
+5Il quadratino lampeggiante ti indica dov'è|la palla.
+jIl cerchio evidenziato indica il tuo|giocatore e il compagno meglio|posizionato per ricevere il passaggio.
+INFOEGli scatti e il pressing consumano la|resistenza. Non usarli troppo spesso!|Evitando di scattare e pressare per un po',|il giocatore recupererà lentamente la|resistenza. Per controllare quanta te ne è|rimasta, vai al menu CAMBIA GIOCATORE e|premi Sinistra o Destra per passare dalla|posizione del giocatore alla resistenza.
+PARTITA VELOCE
+5Gioca una partita con due squadre|selezionate a caso.
+CALCIO D'INIZIO
+LINGUA
+INGLESE
+FRANCESE
+TEDESCO
+ITALIANO
+PORTOGHESE
+SPAGNOLO
+CAMPIONATO INGLESE
+CAMPIONATO FRANCESE
+LIGUE 1
+CAMPIONATO ITALIANO
+CAMPIONATO SPAGNOLO
+LA LIGA
+MODALITÀ CAMPIONATO
+MGioca un campionato con le tue nazionali o|squadre di club europee preferite.
+RISULTATI CAMPIONATO
+CLASSIFICA CAMPIONATO
+N
+GS
+DIF
+GF
+S
+P
+V
+LEGGENDA
+CARICA DATI
+CARICAMENTO
+RECUPERO
+MENU PRINCIPALE
+DETTAGLI PARTITA
+PARTITE DEL GIORNO
+MODALITÀ PARTITA
+6Gioca un'amichevole con le tue impostazioni|preferite.
+RISULTATO PARTITA
+IMPOSTAZIONI PARTITA
+MINUTI
+NAZIONALI
+NAZIONI
+CAMPIONATO NAZIONI
+HIniziando una nuova partita, i salvataggi|precedenti verranno eliminati.
+NUOVA COPPA
+NUOVO CAMPIONATO
+AVANTI
+PROSSIME PARTITE
+PROSSIMA STAGIONE
+NO
+NORMALE
+OFF
+FUORIGIOCO
+FUORIGIOCO
+ON
+AVVERSARIO
+OPZIONI
+PAUSA
+MENU PAUSA
+RIGORE
+RIGORI
+RIG
+GIOCA
+GIOCA UN'ALTRA PARTITA
+DCA
+CA
+CAR
+PT
+I LB
+CAV
+TER
+CF
+AL
+RIGIOCA LA PARTITA
+PREMI UN TASTO
+RADAR
+PIOGGIA
+CASUALI
+REPLAY
+RIRPO.
++SEI SICURO DI VOLER ELIMINARE TUTTI I DATI?
+RIPRENDI PARTITA
+RIPRENDI ALLENAMENTO
+qVUOI TORNARE AL MENU PRINCIPALE?*OGNI DATO|NON SALVATO ANDRÀ PERSO.*LA PARTITA|CORRENTE DOVRÀ ESSERE RIGIOCATA.
+CLASSIFICA MARCATORI
+SELEZIONA COPPA
+SELEZIONA CAMPIONATO
+SELEZIONA AVVERSARIO
+SELEZIONA SQUADRA
+SELEZIONA DIVISA
+TIRI
+TIRI IN PORTA
+SALTA
+SALTA ALLENAMENTO
+NEVE
+SUONO
+SPECIALI
+STADIO
+BERLIN ARENA
+LONDON ARENA
+LUTECIA PARK
+MADRID DOME
+MILANO CAMP
+RESISTENZA
+AVVIA SUPPLEMENTARI
+AVVIA RIGORI
+AVVIA SECONDO TEMPO
+SOLE
+SUPER CHALLENGE
+CHALLENGE CLUB
+SUPER CHALLENGE (CLUB)GGioca due stagioni di un campionato|internazionale o europeo per club. Partirai|dalla seconda divisione e dovrai essere|subito promosso.||Arriva al primo posto nella prima divisione per|vincere la COPPA DEL SUPER CHALLENGE.||RETROCESSIONE: le ultime due della prima|divisione.||PROMOZIONE: le prime due della seconda|divisione.
+CHALLENGE NAZIONI
+SUPER CHALLENGE (NAZIONI)
+FUORI
+CASA
+SQUADRE
+VAI A FORMAZIONE
+RIMESSA
+1TS
+2TS
+1o
+2o
+ALLENAMENTO
+MODALITÀ ALLENAMENTO
+3VUOI EFFETTUARE UN ALLENAMENTO PRIMA DELLA|PARTITA?
+sCerca di diventare un giocatore|professionista di PES Mobile.||Puoi scegliere fra un ALLENAMENTO LIBERO e i|RIGORI.
+RIPROVA
+SELEZIONE DIVISA
+VERSIONE
+TEMPO
+SÌ
+PRODUTTORI
+CAPO SVILUPPATORE
+CAPO SVILUPPATORE PORTING
+SVILUPPATORI
+ARTISTI
+RESPONSABILE PRODOTTO
+RESPONSABILE MOBILE BUSINESS
+)Pro Evolution Soccer|PRODUTTORE ESECUTIVO
+&Pro Evolution Soccer|PRODUTTORE SENIOR
+PRODUTTORI KDE-J
+DIRETTORE KDE-J
+CONTENUTO GLOBALE

@@ -1,0 +1,295 @@
+ABOUT
+BACK
+BALL POSSESSION
+BEST
+BONUS
+YOU HAVE UNLOCKED
+THE FORMATION 2-3-5
+THE METODO FORMATION
+THE WM FORMATION
+THE LEGEND DIFFICULTY LEVEL
+THE BERLIN ARENA
+BUILD
+CAMERA
+TYPE A
+TYPE B
+CHANGE FORMATION
+CHANGE PLAYER
+AT
+DF
+GK
+PW
+SP
+TE
+CLUBS
+THE ENGLISH CUP
+THE ENGLISH LEAGUE
+THE EUROPEAN CHAMPIONS CUP
+THE EUROPEAN CLUBS CUP
+THE EURO NATIONS CUP
+THE FRENCH CUP
+THE LIGUE 1
+THE INTERNATIONAL CUP
+THE ITALIAN CUP
+THE ITALIAN LEAGUE
+THE CLUBS SUPER CHALLENGE
+THE NATIONS SUPER CHALLENGE
+THE NATIONS LEAGUE
+THE SPANISH CUP
+LA LIGA
+/YOU ARE DEMOTED TO LEAGUE 2 FOR THE NEXT|SEASON
+0YOU ARE PROMOTED TO LEAGUE 1 FOR THE NEXT|SEASON
+YOU HAVE WON
+CONGRATULATIONS!
+ATTACK
+DEFENCE
+GPlease check the Help menu for more details|about each type of controls
+RUN
+ONE TOUCH
+CONTROLS
+SPECIAL
+STANDARD
+�SHOOT|Hold 5 or Ok to choose power|Direct your shot||PASS|Press 5 or Ok||LONG PASS / CROSS CENTRE|Hold 5 or Ok||THROUGH BALL|Double Press 5 or Ok
+hSHOOT|Hold 0 to choose power|Direct your shot||PASS|Press 5 or Ok||LONG PASS / CROSS CENTRE|Hold 5 or Ok
+gONE-TWO PASS|Double Press 5 or Ok||THROUGH BALL|Press * or #||SHOOTING FEINT|Hold 0 and quickly Press 5
+Press 5 or OK to pass
+Hold 5 or Ok to shoot
+Press directions to direct shot
+(Hold 5 or OK for a long pass or a centre
+'Double Press 5 or OK for a through ball
+Press 5 or Ok to pass
+Hold 0 to shoot
+Press directions to direct shot
+(Hold 5 or Ok for a long pass or a centre
+Press # or * for a through ball
+"Double Press 5 or Ok for a one-two
+7AUTO-PRESSING|Hold 5 or Ok||TACKLE|Double Press 5 or Ok
+JAUTO-PRESSING|Hold 0, 5 or Ok||TACKLE|Press 0||CALL KEEPER OUT|Hold # or *
+%Hold 5 or Ok to auto-press ball owner
+!Double Press 5 or Ok for a tackle
+%Hold 5 or Ok to auto-press ball owner
+Hold 0 to auto-press and tackle
+Press 0 to tackle
+Hold # or * to call keeper out[UP|2 or D-pad/joystick up||DOWN|8 or D-pad/joystick down||LEFT|4 or D-pad/joystick left||RIGHT|6 or D-pad/joystick right||UP and LEFT|1 or D-pad/joystick up and left||UP and RIGHT|3 or D-pad/joystick up and right||DOWN and LEFT|7 or D-pad/joystick down and left||DOWN and RIGHT|9 or D-pad/joystick down and right||SPRINT|Double Press run direction
+'Press 12346789 or D-pad/joystick to run
+#Press run direction twice to sprint
+'Press 12346789 or D-pad/joystick to run
+#Press run direction twice to sprint
+�THROW IN|Press or Hold 5 or Ok|Press # or * to select a receiver||FREE KICK / CORNER-KICK|Press or Hold 5 or Ok||PENALTY KICKS|Hold 5 and direction to shoot|Press 1, 2, 3 or 7, 8, 9 or D-pad to dive
+�THROW IN|Press or Hold 5 or Ok|Press # or * to select a receiver||FREE KICK / CORNER-KICK|Press or Hold 0, 5 or Ok||PENALTY KICKS|Hold 0 and direction to shoot|Press 1, 2, 3 or 7, 8, 9 or D-pad to dive
+"Press 5 or Ok for a short throw-in
+Hold 5 or Ok for a long throw-in
+(Hold 5 or Ok for a corner or a free-kick
+Hold 5 or Ok for a penalty kick
+"Press 5 or Ok for a short throw-in
+Hold 5 or OK for a long throw-in
+(Hold 5 or Ok for a corner or a free-kick
+Hold 0 for a penalty kick
+CORNER KICK
+CORNER KICKS
+CREDITS
+ENGLISH CUP
+EUROPEAN CHAMPIONS CUP
+EUROPEAN CLUBS CUP
+FRENCH CUP
+ITALIAN CUP
+SPANISH CUP
+CUP INFO
+CUP MODE
+�Play a large variety of cups:||EUROPEAN CHAMPIONS CUP|4 groups of 4 teams.||EUROPEAN CLUBS CUP|16 teams in a 'round of 16' tournament.||ENGLISH, FRENCH, ITALIAN, SPANISH CUP|16 teams in a 'round of 16' tournament.
+EURO NATIONS CUP
+INTERNATIONAL CUP
+CUP RESULTS
+ALL DATA HAVE BEEN ERASED
+DATA SAVED
+DAY
+DEFAULT
+DETAILS
+DIFFICULTY
+DIVISION
+EASY
+END OF THE MATCH
+ERASE DATA
+EXIT
+mWOULD YOU LIKE TO END THE APPLICATION?*ANY|UNSAVED DATA WILL BE LOST.*CURRENT MATCH|WILL HAVE TO BE REPLAYED.
+EXIT GAME
+EXTRA TIME
+FORMATION%2-3-5 formation is|also called the|«pyramid» and|inspired Danubian|School and Metodo.|It was the standard|formation use in the|1890s and up to the|1940s. It was|considered a|balanced one when|compared to old 1-1-8|and 1-2-7. Forwards|and midfielders would|go down if more|defense was needed.
+�WM:|This system was|created in the|mid-1920s in reaction|to a change in the|offside law. This|formation gave birth|to 3-4-3 and 3-5-2|years later, with a|clear distinction|between offensive|and defensive|midfielders and no|real play maker.93-4-3 is an offensive|formation, with only|three defenders and|4 midfielders|expected to split|their time between|attacking and|defending. Three|forwards allow for|greater|concentration of|offense, a constant|danger for the|opponent.|Used by famous|1990's FC Barcelona,|1990's AC Milan and|2006/2007 FC|Barcelona.T3-5-2 is an offensive|formation, with two|midfield wingers|oriented towards|the attack. One or|two central|midfielders have to|support the|defense, depending|on the alternative|chosen. It is one of|the most modular|formations, with|great importance|given to midfielders.|Used by 1986 World|Champion Argentina|and 2002 World|Champion Brazil.
+�3-6-1 is a rarely used|formation with a|very dense midfield|helping out three|defenders and a lone|striker. Midfielders|grant possession to|the team, while|trying to push|forward. Can be|seen as a prudent|alternative to 3-4-3.B4-3-3 is rather a|defensive formation,|with 3 midfielders|playing closely to|each other to|protect the defense|and move laterally to|cover field's width.|The three forwards|split across the field|to spread the|attack and are|expected to «tackle|back».|Used by 1962 World|Champion Brazil and|famous 1970's Ajax|Amsterdam.4-4-2 is the most|common formation in|football today.|Midfielders have a|crucial role as they|support both|defense and attack.|Midfield line can be|flat or in diamond|depending on the|strategy of the|team.|Used by most|European club teams|and also by 2006|World Champion Italy.H4-5-1 is a rather|defensive formation|although the two|midfield wingers can|bring support to the|lone striker in|attack. This|formation can be|used to preserve a|lead as the packing|of the centre|midfield makes it|difficult for the|opponent to build up|play.|Used by 1998 World|Champion France,|Olympique Lyonnais,|Liverpool FC.5-3-2 formation has|three central|defenders, one of|them possibly acting|as a sweeper and|gives great|importance to|wing-backs as they|have to support|both the defense|and the attack by|flanking along the full|length of the pitch.|Used by 1990 World|Champion West|Germany.5-4-1 is a particularly|defensive formation,|with an isolated|forward and a|packed defense. It|can be used to grind|out 0-0 draws or|preserve a lead. It's|a very difficult|formation for the|opponent to play|against, with|potentially 9|defending field|players.
+FOUL
+FOULS
+FREE KICK
+FREE TRAINING
+FREE TRIAL
+GALLERY
+GAME LENGTH
+GAME MODES
+GAME SETTINGS
+GET THE GAME
+�Get the full version from your operators'|game service now!||Just click on the home page icon in your|phone's main menu or use your phone|browser and enter the address.
+GET MORE GAMES
+�Get more great games from your operators'|game service! Just click on the homepage|icon in your phone's main menu, or use your|phone browser and enter the address!
+GOAL KICK
+GOAL SCORERS
+OG
+GO TO CUP RESULTS
+GO TO LEAGUE RESULTS
+GO TO MATCH RESULTS
+GROUP
+HALF TIME
+HARD
+HELP
+HELP INFO
+INDICATORS
+�You can choose either camera type A or|type B in game:||Camera type A is more of an offensive|camera, focusing on what's ahead of you.||Camera type B, having the same angle, has a|balanced focus between attack and defence|lines.
+Player you control
+Best partner
+Partner offside
+`Cursor on bottom right of the screen stands|for pause menu. Press the Right Soft Key to|open it.
+�You can activate or deactivate the radar in|the options menu. The radar shows an|overview of the players' positioning on the|pitch, and displays two important pieces of|information:
+,Blinking square shows you where the|ball is.
+[Highlighted circle stands for controlled|player and best partner (potential pass|receiver).
+INFORMATION+Sprint and pressing actions consume your|stamina. Do not use them too frequently!|When a player is not sprinting or doing a|pressing, he will slowly recover his stamina.|To check your stamina, go to CHANGE PLAYER|menu and press left or right to switch|between player's position and player's|stamina.
+INSTANT PLAY
+3Start a quick match with 2 randomly selected|teams.
+KICK OFF
+LANGUAGE
+ENGLISH
+FRENCH
+GERMAN
+ITALIAN
+PORTUGUESE
+SPANISH
+ENGLISH LEAGUE
+FRENCH LEAGUE
+LIGUE 1
+ITALIAN LEAGUE
+SPANISH LEAGUE
+LA LIGA
+LEAGUE MODE
+;Play a league with your favorite nations or|European clubs.
+LEAGUE RESULTS
+LEAGUE TABLE
+D
+GA
+GD
+GF
+L
+P
+W
+LEGEND
+LOAD DATA
+LOADING
+LOSS TIME
+MAIN MENU
+MATCH DETAILS
+MATCHES OF THE DAY
+MATCH MODE
+6Play a friendly match with all your favorite|settings.
+MATCH RESULTS
+MATCH SETTINGS
+MINUTES
+NATIONAL TEAMS
+NATIONS
+NATIONS LEAGUE
+9If you start a new game the previous save|will be erased.
+NEW CUP
+NEW LEAGUE
+NEXT
+NEXT MATCHES
+NEXT SEASON
+NO
+NORMAL
+OFF
+OFFSIDE
+OFFSIDES
+ON
+OPPONENT
+OPTIONS
+PAUSE
+PAUSE MENU
+PENALTY KICK
+PENALTY SHOOTOUT
+PK
+PLAY
+PLAY ANOTHER MATCH
+CB
+CF
+DMF
+GK
+LB
+OMF
+SB
+SMF
+WG
+PLAY THE SAME MATCH
+PRESS ANY KEY
+RADAR
+RAIN
+RANDOM
+REPLAY
+PLAY
+-ARE YOU SURE YOU WANT TO ERASE ALL YOUR DATA?
+RESUME MATCH
+RESUME TRAINING
+qWOULD YOU LIKE TO RETURN TO THE MAIN|MENU?*ANY UNSAVED DATA WILL BE|LOST.*CURRENT MATCH WILL HAVE TO BE|REPLAYED.
+SCORERS RANKING
+SELECT CUP
+SELECT YOUR LEAGUE
+SELECT OPPONENT
+SELECT YOUR TEAM
+SELECT UNIFORM
+SHOTS
+SHOTS ON TARGET
+SKIP
+SKIP TRAINING
+SNOW
+SOUND
+SPECIALS
+STADIUM
+BERLIN ARENA
+LONDON ARENA
+LUTECIA PARK
+MADRID DOME
+MILANO CAMP
+STAMINA
+START THE EXTRA TIME
+START THE PENALTIES
+START THE SECOND HALF
+SUN
+SUPER CHALLENGE
+CLUBS CHALLENGE
+SUPER CHALLENGE (CLUBS)6Play 2 seasons of an International or|European clubs league. You start from the|2nd division and have to be promoted to the|1st division before the end of season.||Reach the top rank of the 1st division and|you will win the SUPER CHALLENGE'S CUP.||RELEGATION: lowest two D1 teams.||PROMOTION: top two D2 teams.
+NATIONS CHALLENGE
+SUPER CHALLENGE (NATIONS)
+AWAY
+HOME
+TEAMS
+TO TEAM SELECTION
+THROW IN
+Ex1
+Ex2
+1st
+2nd
+TRAINING
+TRAINING MODE
+2WOULD YOU LIKE TO DO A TRAINING BEFORE YOUR|MATCH?
+yLearn how to become a PES Mobile|professional player.||You have the choice between a FREE TRAINING|and PENALTY SHOOT OUT.
+TRY AGAIN
+UNIFORM SELECTION
+VERSION
+WEATHER
+YES
+PRODUCERS
+LEAD DEVELOPER
+LEAD PORTING DEVELOPER
+DEVELOPERS
+ARTISTS
+PRODUCT MANAGER
+HEAD OF MOBILE BUSINESS
+'Pro Evolution Soccer|EXECUTIVE PRODUCER
+$Pro Evolution Soccer|SENIOR PRODUCER
+KDE-J PRODUCERS
+KDE-J DIRECTOR
+GLOBAL CONTENT
