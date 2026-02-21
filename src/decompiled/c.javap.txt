@@ -1,0 +1,2359 @@
+Classfile /workspace/pesjava/c.class
+  Last modified Feb 21, 2026; size 4932 bytes
+  SHA-256 checksum 63b4f5172c8aa55bf5e43e65979ce478761f11ad5e4a772c72441eb0abcda480
+public final class c
+  minor version: 3
+  major version: 45
+  flags: (0x0031) ACC_PUBLIC, ACC_FINAL, ACC_SUPER
+  this_class: #14                         // c
+  super_class: #15                        // java/lang/Object
+  interfaces: 0, fields: 2, methods: 22, attributes: 0
+Constant pool:
+   #1 = Integer            -2147483648
+   #2 = Integer            32768
+   #3 = Integer            65536
+   #4 = Integer            1073741824
+   #5 = Long               3l
+   #7 = Long               11l
+   #9 = Long               25214903917l
+  #11 = Long               281474976710655l
+  #13 = Class              #48            // "[I"
+  #14 = Class              #52            // c
+  #15 = Class              #57            // java/lang/Object
+  #16 = Class              #58            // java/lang/System
+  #17 = Fieldref           #14.#27        // c.a:J
+  #18 = Fieldref           #14.#28        // c.a:[S
+  #19 = Methodref          #14.#26        // c.a:(I)I
+  #20 = Methodref          #14.#30        // c.e:(I)I
+  #21 = Methodref          #14.#31        // c.f:(I)I
+  #22 = Methodref          #14.#32        // c.f:(II)I
+  #23 = Methodref          #15.#25        // java/lang/Object."<init>":()V
+  #24 = Methodref          #16.#29        // java/lang/System.currentTimeMillis:()J
+  #25 = NameAndType        #44:#34        // "<init>":()V
+  #26 = NameAndType        #50:#35        // a:(I)I
+  #27 = NameAndType        #50:#46        // a:J
+  #28 = NameAndType        #50:#49        // a:[S
+  #29 = NameAndType        #53:#33        // currentTimeMillis:()J
+  #30 = NameAndType        #55:#35        // e:(I)I
+  #31 = NameAndType        #56:#35        // f:(I)I
+  #32 = NameAndType        #56:#36        // f:(II)I
+  #33 = Utf8               ()J
+  #34 = Utf8               ()V
+  #35 = Utf8               (I)I
+  #36 = Utf8               (II)I
+  #37 = Utf8               (III)I
+  #38 = Utf8               (IIIIIII)Z
+  #39 = Utf8               (IIIIIIII)Z
+  #40 = Utf8               (IIIIIIII)[I
+  #41 = Utf8               (IIIIIIIIII)Z
+  #42 = Utf8               (J)J
+  #43 = Utf8               <clinit>
+  #44 = Utf8               <init>
+  #45 = Utf8               Code
+  #46 = Utf8               J
+  #47 = Utf8               StackMap
+  #48 = Utf8               [I
+  #49 = Utf8               [S
+  #50 = Utf8               a
+  #51 = Utf8               b
+  #52 = Utf8               c
+  #53 = Utf8               currentTimeMillis
+  #54 = Utf8               d
+  #55 = Utf8               e
+  #56 = Utf8               f
+  #57 = Utf8               java/lang/Object
+  #58 = Utf8               java/lang/System
+{
+  private static final short[] a;
+    descriptor: [S
+    flags: (0x001a) ACC_PRIVATE, ACC_STATIC, ACC_FINAL
+
+  private static long a;
+    descriptor: J
+    flags: (0x000a) ACC_PRIVATE, ACC_STATIC
+
+  public c();
+    descriptor: ()V
+    flags: (0x0001) ACC_PUBLIC
+    Code:
+      stack=1, locals=1, args_size=1
+         0: aload_0
+         1: invokespecial #23                 // Method java/lang/Object."<init>":()V
+         4: return
+
+  public static final int a(int);
+    descriptor: (I)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=1, locals=1, args_size=1
+         0: iload_0
+         1: iflt          6
+         4: iload_0
+         5: ireturn
+         6: iload_0
+         7: ineg
+         8: ireturn
+      StackMap: number_of_entries = 1
+        frame_type = 255 offset = 6
+          locals = [ int ]
+          stack = []
+
+  public static final int a(int, int);
+    descriptor: (II)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=2, locals=2, args_size=2
+         0: iload_0
+         1: iload_1
+         2: if_icmplt     7
+         5: iload_0
+         6: ireturn
+         7: iload_1
+         8: ireturn
+      StackMap: number_of_entries = 1
+        frame_type = 255 offset = 7
+          locals = [ int, int ]
+          stack = []
+
+  public static final int b(int, int);
+    descriptor: (II)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=2, locals=2, args_size=2
+         0: iload_0
+         1: iload_1
+         2: if_icmpge     7
+         5: iload_0
+         6: ireturn
+         7: iload_1
+         8: ireturn
+      StackMap: number_of_entries = 1
+        frame_type = 255 offset = 7
+          locals = [ int, int ]
+          stack = []
+
+  public static final int b(int);
+    descriptor: (I)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=4, locals=1, args_size=1
+         0: getstatic     #17                 // Field a:J
+         3: ldc2_w        #9                  // long 25214903917l
+         6: lmul
+         7: ldc2_w        #7                  // long 11l
+        10: ladd
+        11: ldc2_w        #11                 // long 281474976710655l
+        14: land
+        15: dup2
+        16: putstatic     #17                 // Field a:J
+        19: bipush        17
+        21: lushr
+        22: l2i
+        23: iload_0
+        24: irem
+        25: ireturn
+
+  public static final int c(int);
+    descriptor: (I)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=2, locals=1, args_size=1
+         0: iload_0
+         1: sipush        255
+         4: iand
+         5: istore_0
+         6: getstatic     #18                 // Field a:[S
+         9: iload_0
+        10: saload
+        11: ireturn
+
+  public static final int d(int);
+    descriptor: (I)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=2, locals=1, args_size=1
+         0: iload_0
+         1: bipush        64
+         3: iadd
+         4: sipush        255
+         7: iand
+         8: istore_0
+         9: getstatic     #18                 // Field a:[S
+        12: iload_0
+        13: saload
+        14: ireturn
+
+  public static final int e(int);
+    descriptor: (I)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=2, locals=5, args_size=1
+         0: iconst_0
+         1: istore_2
+         2: bipush        32
+         4: istore_3
+         5: bipush        64
+         7: istore        4
+         9: iload_0
+        10: ifle          18
+        13: iconst_0
+        14: istore_1
+        15: goto          23
+        18: iload_0
+        19: ineg
+        20: istore_0
+        21: iconst_1
+        22: istore_1
+        23: getstatic     #18                 // Field a:[S
+        26: iload_3
+        27: saload
+        28: iload_0
+        29: if_icmplt     38
+        32: iload_3
+        33: istore        4
+        35: goto          40
+        38: iload_3
+        39: istore_2
+        40: iload_2
+        41: iload         4
+        43: iadd
+        44: iconst_1
+        45: ishr
+        46: dup
+        47: istore_3
+        48: iload_2
+        49: if_icmpne     23
+        52: iload_1
+        53: ifeq          62
+        56: sipush        256
+        59: iload_3
+        60: isub
+        61: ireturn
+        62: iload_3
+        63: ireturn
+      StackMap: number_of_entries = 5
+        frame_type = 255 offset = 18
+          locals = [ int, top, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 23
+          locals = [ int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 38
+          locals = [ int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 40
+          locals = [ int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 62
+          locals = [ int, int, int, int, int ]
+          stack = []
+
+  public static final int c(int, int);
+    descriptor: (II)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=2, locals=3, args_size=2
+         0: iload_0
+         1: iload_1
+         2: invokestatic  #22                 // Method f:(II)I
+         5: dup
+         6: istore_2
+         7: ifne          12
+        10: iconst_0
+        11: ireturn
+        12: iload_1
+        13: bipush        8
+        15: ishl
+        16: iload_2
+        17: idiv
+        18: invokestatic  #20                 // Method e:(I)I
+        21: istore_1
+        22: iload_0
+        23: iflt          28
+        26: iload_1
+        27: ireturn
+        28: sipush        128
+        31: iload_1
+        32: isub
+        33: ireturn
+      StackMap: number_of_entries = 2
+        frame_type = 255 offset = 12
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 28
+          locals = [ int, int, int ]
+          stack = []
+
+  public static final int f(int);
+    descriptor: (I)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=3, locals=3, args_size=1
+         0: iload_0
+         1: ldc           #4                  // int 1073741824
+         3: if_icmplt     17
+         6: iload_0
+         7: ldc           #4                  // int 1073741824
+         9: isub
+        10: istore_0
+        11: ldc           #3                  // int 65536
+        13: istore_2
+        14: goto          19
+        17: iconst_0
+        18: istore_2
+        19: iload_2
+        20: sipush        16384
+        23: ior
+        24: bipush        14
+        26: ishl
+        27: istore_1
+        28: iload_0
+        29: iload_1
+        30: if_icmplt     42
+        33: iload_0
+        34: iload_1
+        35: isub
+        36: istore_0
+        37: iload_2
+        38: ldc           #2                  // int 32768
+        40: ior
+        41: istore_2
+        42: iload_2
+        43: sipush        8192
+        46: ior
+        47: bipush        13
+        49: ishl
+        50: istore_1
+        51: iload_0
+        52: iload_1
+        53: if_icmplt     66
+        56: iload_0
+        57: iload_1
+        58: isub
+        59: istore_0
+        60: iload_2
+        61: sipush        16384
+        64: ior
+        65: istore_2
+        66: iload_2
+        67: sipush        4096
+        70: ior
+        71: bipush        12
+        73: ishl
+        74: istore_1
+        75: iload_0
+        76: iload_1
+        77: if_icmplt     90
+        80: iload_0
+        81: iload_1
+        82: isub
+        83: istore_0
+        84: iload_2
+        85: sipush        8192
+        88: ior
+        89: istore_2
+        90: iload_2
+        91: sipush        2048
+        94: ior
+        95: bipush        11
+        97: ishl
+        98: istore_1
+        99: iload_0
+       100: iload_1
+       101: if_icmplt     114
+       104: iload_0
+       105: iload_1
+       106: isub
+       107: istore_0
+       108: iload_2
+       109: sipush        4096
+       112: ior
+       113: istore_2
+       114: iload_2
+       115: sipush        1024
+       118: ior
+       119: bipush        10
+       121: ishl
+       122: istore_1
+       123: iload_0
+       124: iload_1
+       125: if_icmplt     138
+       128: iload_0
+       129: iload_1
+       130: isub
+       131: istore_0
+       132: iload_2
+       133: sipush        2048
+       136: ior
+       137: istore_2
+       138: iload_2
+       139: sipush        512
+       142: ior
+       143: bipush        9
+       145: ishl
+       146: istore_1
+       147: iload_0
+       148: iload_1
+       149: if_icmplt     162
+       152: iload_0
+       153: iload_1
+       154: isub
+       155: istore_0
+       156: iload_2
+       157: sipush        1024
+       160: ior
+       161: istore_2
+       162: iload_2
+       163: sipush        256
+       166: ior
+       167: bipush        8
+       169: ishl
+       170: istore_1
+       171: iload_0
+       172: iload_1
+       173: if_icmplt     186
+       176: iload_0
+       177: iload_1
+       178: isub
+       179: istore_0
+       180: iload_2
+       181: sipush        512
+       184: ior
+       185: istore_2
+       186: iload_2
+       187: sipush        128
+       190: ior
+       191: bipush        7
+       193: ishl
+       194: istore_1
+       195: iload_0
+       196: iload_1
+       197: if_icmplt     210
+       200: iload_0
+       201: iload_1
+       202: isub
+       203: istore_0
+       204: iload_2
+       205: sipush        256
+       208: ior
+       209: istore_2
+       210: iload_2
+       211: bipush        64
+       213: ior
+       214: bipush        6
+       216: ishl
+       217: istore_1
+       218: iload_0
+       219: iload_1
+       220: if_icmplt     233
+       223: iload_0
+       224: iload_1
+       225: isub
+       226: istore_0
+       227: iload_2
+       228: sipush        128
+       231: ior
+       232: istore_2
+       233: iload_2
+       234: bipush        32
+       236: ior
+       237: iconst_5
+       238: ishl
+       239: istore_1
+       240: iload_0
+       241: iload_1
+       242: if_icmplt     254
+       245: iload_0
+       246: iload_1
+       247: isub
+       248: istore_0
+       249: iload_2
+       250: bipush        64
+       252: ior
+       253: istore_2
+       254: iload_2
+       255: bipush        16
+       257: ior
+       258: iconst_4
+       259: ishl
+       260: istore_1
+       261: iload_0
+       262: iload_1
+       263: if_icmplt     275
+       266: iload_0
+       267: iload_1
+       268: isub
+       269: istore_0
+       270: iload_2
+       271: bipush        32
+       273: ior
+       274: istore_2
+       275: iload_2
+       276: bipush        8
+       278: ior
+       279: iconst_3
+       280: ishl
+       281: istore_1
+       282: iload_0
+       283: iload_1
+       284: if_icmplt     296
+       287: iload_0
+       288: iload_1
+       289: isub
+       290: istore_0
+       291: iload_2
+       292: bipush        16
+       294: ior
+       295: istore_2
+       296: iload_2
+       297: iconst_4
+       298: ior
+       299: iconst_2
+       300: ishl
+       301: istore_1
+       302: iload_0
+       303: iload_1
+       304: if_icmplt     316
+       307: iload_0
+       308: iload_1
+       309: isub
+       310: istore_0
+       311: iload_2
+       312: bipush        8
+       314: ior
+       315: istore_2
+       316: iload_2
+       317: iconst_2
+       318: ior
+       319: iconst_1
+       320: ishl
+       321: istore_1
+       322: iload_0
+       323: iload_1
+       324: if_icmplt     335
+       327: iload_0
+       328: iload_1
+       329: isub
+       330: istore_0
+       331: iload_2
+       332: iconst_4
+       333: ior
+       334: istore_2
+       335: iload_0
+       336: iload_2
+       337: iconst_1
+       338: ior
+       339: if_icmplt     346
+       342: iload_2
+       343: iconst_2
+       344: ior
+       345: istore_2
+       346: iload_2
+       347: iconst_1
+       348: ishr
+       349: ireturn
+      StackMap: number_of_entries = 17
+        frame_type = 255 offset = 17
+          locals = [ int ]
+          stack = []
+        frame_type = 255 offset = 19
+          locals = [ int, top, int ]
+          stack = []
+        frame_type = 255 offset = 42
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 66
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 90
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 114
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 138
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 162
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 186
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 210
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 233
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 254
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 275
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 296
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 316
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 335
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 346
+          locals = [ int, int, int ]
+          stack = []
+
+  public static final long a(long);
+    descriptor: (J)J
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=4, locals=7, args_size=1
+         0: iconst_0
+         1: istore_2
+         2: lload_0
+         3: lstore_3
+         4: lload_3
+         5: ldc2_w        #5                  // long 3l
+         8: lcmp
+         9: ifle          22
+        12: lload_3
+        13: iconst_2
+        14: lshr
+        15: lstore_3
+        16: iinc          2, 1
+        19: goto          4
+        22: lconst_0
+        23: lstore_3
+        24: iload_2
+        25: iflt          63
+        28: lload_3
+        29: iconst_1
+        30: iload_2
+        31: ishl
+        32: i2l
+        33: lor
+        34: iload_2
+        35: lshl
+        36: lstore        5
+        38: lload_0
+        39: lload         5
+        41: lcmp
+        42: iflt          57
+        45: lload_0
+        46: lload         5
+        48: lsub
+        49: lstore_0
+        50: lload_3
+        51: iconst_2
+        52: iload_2
+        53: ishl
+        54: i2l
+        55: lor
+        56: lstore_3
+        57: iinc          2, -1
+        60: goto          24
+        63: lload_3
+        64: iconst_1
+        65: lshr
+        66: lreturn
+      StackMap: number_of_entries = 5
+        frame_type = 255 offset = 4
+          locals = [ long, int, long ]
+          stack = []
+        frame_type = 255 offset = 22
+          locals = [ long, int, long ]
+          stack = []
+        frame_type = 255 offset = 24
+          locals = [ long, int, long ]
+          stack = []
+        frame_type = 255 offset = 57
+          locals = [ long, int, long, long ]
+          stack = []
+        frame_type = 255 offset = 63
+          locals = [ long, int, long ]
+          stack = []
+
+  public static final int d(int, int);
+    descriptor: (II)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=3, locals=2, args_size=2
+         0: iload_0
+         1: iload_0
+         2: imul
+         3: iload_1
+         4: iload_1
+         5: imul
+         6: iadd
+         7: invokestatic  #21                 // Method f:(I)I
+        10: ireturn
+
+  public static final int a(int, int, int);
+    descriptor: (III)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=3, locals=3, args_size=3
+         0: iload_0
+         1: iload_0
+         2: imul
+         3: iload_1
+         4: iload_1
+         5: imul
+         6: iadd
+         7: iload_2
+         8: iload_2
+         9: imul
+        10: iadd
+        11: invokestatic  #21                 // Method f:(I)I
+        14: ireturn
+
+  public static final int e(int, int);
+    descriptor: (II)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=2, locals=2, args_size=2
+         0: iload_0
+         1: ifge          7
+         4: iload_0
+         5: ineg
+         6: istore_0
+         7: iload_1
+         8: ifge          14
+        11: iload_1
+        12: ineg
+        13: istore_1
+        14: iload_0
+        15: iload_1
+        16: if_icmple     21
+        19: iload_0
+        20: ireturn
+        21: iload_1
+        22: ireturn
+      StackMap: number_of_entries = 3
+        frame_type = 255 offset = 7
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 14
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 21
+          locals = [ int, int ]
+          stack = []
+
+  public static final int f(int, int);
+    descriptor: (II)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=3, locals=2, args_size=2
+         0: iload_0
+         1: ifge          7
+         4: iload_0
+         5: ineg
+         6: istore_0
+         7: iload_1
+         8: ifge          14
+        11: iload_1
+        12: ineg
+        13: istore_1
+        14: iload_0
+        15: iload_1
+        16: if_icmple     32
+        19: iload_0
+        20: bipush        123
+        22: imul
+        23: iload_1
+        24: bipush        51
+        26: imul
+        27: iadd
+        28: bipush        7
+        30: ishr
+        31: ireturn
+        32: iload_1
+        33: bipush        123
+        35: imul
+        36: iload_0
+        37: bipush        51
+        39: imul
+        40: iadd
+        41: bipush        7
+        43: ishr
+        44: ireturn
+      StackMap: number_of_entries = 3
+        frame_type = 255 offset = 7
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 14
+          locals = [ int, int ]
+          stack = []
+        frame_type = 255 offset = 32
+          locals = [ int, int ]
+          stack = []
+
+  public static final int b(int, int, int);
+    descriptor: (III)I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=3, locals=3, args_size=3
+         0: iload_0
+         1: ifge          7
+         4: iload_0
+         5: ineg
+         6: istore_0
+         7: iload_1
+         8: ifge          14
+        11: iload_1
+        12: ineg
+        13: istore_1
+        14: iload_2
+        15: ifge          21
+        18: iload_2
+        19: ineg
+        20: istore_2
+        21: iload_0
+        22: iload_1
+        23: if_icmple     42
+        26: iload_0
+        27: bipush        123
+        29: imul
+        30: iload_1
+        31: bipush        51
+        33: imul
+        34: iadd
+        35: bipush        7
+        37: ishr
+        38: istore_0
+        39: goto          55
+        42: iload_1
+        43: bipush        123
+        45: imul
+        46: iload_0
+        47: bipush        51
+        49: imul
+        50: iadd
+        51: bipush        7
+        53: ishr
+        54: istore_0
+        55: iload_2
+        56: iload_0
+        57: if_icmple     73
+        60: iload_2
+        61: bipush        123
+        63: imul
+        64: iload_0
+        65: bipush        51
+        67: imul
+        68: iadd
+        69: bipush        7
+        71: ishr
+        72: ireturn
+        73: iload_0
+        74: bipush        123
+        76: imul
+        77: iload_2
+        78: bipush        51
+        80: imul
+        81: iadd
+        82: bipush        7
+        84: ishr
+        85: ireturn
+      StackMap: number_of_entries = 6
+        frame_type = 255 offset = 7
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 14
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 21
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 42
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 55
+          locals = [ int, int, int ]
+          stack = []
+        frame_type = 255 offset = 73
+          locals = [ int, int, int ]
+          stack = []
+
+  public static final boolean a(int, int, int, int, int, int, int, int);
+    descriptor: (IIIIIIII)Z
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=4, locals=11, args_size=8
+         0: iload_3
+         1: iload_1
+         2: isub
+         3: istore        8
+         5: iload_0
+         6: iload_2
+         7: isub
+         8: istore        9
+        10: iload         8
+        12: iload_0
+        13: imul
+        14: iload         9
+        16: iload_1
+        17: imul
+        18: iadd
+        19: istore        10
+        21: iload         8
+        23: iload         4
+        25: imul
+        26: iload         9
+        28: iload         5
+        30: imul
+        31: iadd
+        32: iload         10
+        34: if_icmple     41
+        37: iconst_1
+        38: goto          42
+        41: iconst_0
+        42: iload         8
+        44: iload         6
+        46: imul
+        47: iload         9
+        49: iload         7
+        51: imul
+        52: iadd
+        53: iload         10
+        55: if_icmple     62
+        58: iconst_1
+        59: goto          63
+        62: iconst_0
+        63: ixor
+        64: ifeq          138
+        67: iload         7
+        69: iload         5
+        71: isub
+        72: istore        8
+        74: iload         4
+        76: iload         6
+        78: isub
+        79: istore        9
+        81: iload         8
+        83: iload         4
+        85: imul
+        86: iload         9
+        88: iload         5
+        90: imul
+        91: iadd
+        92: istore        10
+        94: iload         8
+        96: iload_0
+        97: imul
+        98: iload         9
+       100: iload_1
+       101: imul
+       102: iadd
+       103: iload         10
+       105: if_icmple     112
+       108: iconst_1
+       109: goto          113
+       112: iconst_0
+       113: iload         8
+       115: iload_2
+       116: imul
+       117: iload         9
+       119: iload_3
+       120: imul
+       121: iadd
+       122: iload         10
+       124: if_icmple     131
+       127: iconst_1
+       128: goto          132
+       131: iconst_0
+       132: ixor
+       133: ifeq          138
+       136: iconst_1
+       137: ireturn
+       138: iconst_0
+       139: ireturn
+      StackMap: number_of_entries = 9
+        frame_type = 255 offset = 41
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 42
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = [ int ]
+        frame_type = 255 offset = 62
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = [ int ]
+        frame_type = 255 offset = 63
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = [ int, int ]
+        frame_type = 255 offset = 112
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 113
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = [ int ]
+        frame_type = 255 offset = 131
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = [ int ]
+        frame_type = 255 offset = 132
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = [ int, int ]
+        frame_type = 255 offset = 138
+          locals = [ int, int, int, int, int, int, int, int, int, int, int ]
+          stack = []
+
+  public static final boolean b(int, int, int, int, int, int, int, int);
+    descriptor: (IIIIIIII)Z
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=4, locals=8, args_size=8
+         0: iload         6
+         2: iload_1
+         3: iload         5
+         5: isub
+         6: imul
+         7: iload         7
+         9: iload_0
+        10: iload         4
+        12: isub
+        13: imul
+        14: isub
+        15: istore        4
+        17: iload         7
+        19: iload_2
+        20: iload_0
+        21: isub
+        22: imul
+        23: iload         6
+        25: iload_3
+        26: iload_1
+        27: isub
+        28: imul
+        29: isub
+        30: istore_0
+        31: iload         4
+        33: ldc           #1                  // int -2147483648
+        35: iand
+        36: iload_0
+        37: ldc           #1                  // int -2147483648
+        39: iand
+        40: if_icmpne     57
+        43: iload         4
+        45: invokestatic  #19                 // Method a:(I)I
+        48: iload_0
+        49: invokestatic  #19                 // Method a:(I)I
+        52: if_icmpge     57
+        55: iconst_1
+        56: ireturn
+        57: iconst_0
+        58: ireturn
+      StackMap: number_of_entries = 1
+        frame_type = 255 offset = 57
+          locals = [ int, int, int, int, int, int, int, int ]
+          stack = []
+
+  public static final boolean a(int, int, int, int, int, int, int);
+    descriptor: (IIIIIII)Z
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=4, locals=7, args_size=7
+         0: iload         4
+         2: iload_2
+         3: isub
+         4: istore_0
+         5: iload_3
+         6: iload         5
+         8: isub
+         9: istore        6
+        11: sipush        13440
+        14: iload_2
+        15: isub
+        16: istore_2
+        17: iload_1
+        18: iload_3
+        19: isub
+        20: istore_3
+        21: iload_0
+        22: ifne          44
+        25: iload         6
+        27: ifne          44
+        30: iload_2
+        31: iload_3
+        32: invokestatic  #22                 // Method f:(II)I
+        35: bipush        62
+        37: if_icmpge     42
+        40: iconst_1
+        41: ireturn
+        42: iconst_0
+        43: ireturn
+        44: iload_0
+        45: iload_2
+        46: imul
+        47: iload         6
+        49: iload_3
+        50: imul
+        51: if_icmplt     72
+        54: iload_0
+        55: sipush        13440
+        58: iload         4
+        60: isub
+        61: imul
+        62: iload         6
+        64: iload_1
+        65: iload         5
+        67: isub
+        68: imul
+        69: if_icmple     74
+        72: iconst_0
+        73: ireturn
+        74: iload_0
+        75: iload_3
+        76: imul
+        77: iload         6
+        79: iload_2
+        80: imul
+        81: iadd
+        82: invokestatic  #19                 // Method a:(I)I
+        85: bipush        62
+        87: iload_0
+        88: iload         6
+        90: invokestatic  #22                 // Method f:(II)I
+        93: imul
+        94: if_icmpge     99
+        97: iconst_1
+        98: ireturn
+        99: iconst_0
+       100: ireturn
+      StackMap: number_of_entries = 5
+        frame_type = 255 offset = 42
+          locals = [ int, int, int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 44
+          locals = [ int, int, int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 72
+          locals = [ int, int, int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 74
+          locals = [ int, int, int, int, int, int, int ]
+          stack = []
+        frame_type = 255 offset = 99
+          locals = [ int, int, int, int, int, int, int ]
+          stack = []
+
+  public static final boolean a(int, int, int, int, int, int, int, int, int, int);
+    descriptor: (IIIIIIIIII)Z
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=4, locals=10, args_size=10
+         0: iload_0
+         1: iload_3
+         2: isub
+         3: istore_0
+         4: iload_1
+         5: iload         4
+         7: isub
+         8: istore_1
+         9: iload_2
+        10: iload         5
+        12: isub
+        13: istore_2
+        14: iload_3
+        15: iload         6
+        17: isub
+        18: istore_3
+        19: iload         4
+        21: iload         7
+        23: isub
+        24: istore        4
+        26: iload         5
+        28: iload         8
+        30: isub
+        31: istore        5
+        33: iload_0
+        34: iload_0
+        35: imul
+        36: iload_1
+        37: iload_1
+        38: imul
+        39: iadd
+        40: iload_2
+        41: iload_2
+        42: imul
+        43: iadd
+        44: bipush        8
+        46: ishr
+        47: istore        6
+        49: iload_3
+        50: iload_3
+        51: imul
+        52: iload         4
+        54: iload         4
+        56: imul
+        57: iadd
+        58: iload         5
+        60: iload         5
+        62: imul
+        63: iadd
+        64: bipush        8
+        66: ishr
+        67: istore        7
+        69: iload_0
+        70: iload_3
+        71: imul
+        72: iload_1
+        73: iload         4
+        75: imul
+        76: iadd
+        77: iload_2
+        78: iload         5
+        80: imul
+        81: iadd
+        82: bipush        8
+        84: ishr
+        85: istore_0
+        86: iload         7
+        88: iload         6
+        90: imul
+        91: iload_0
+        92: iload_0
+        93: imul
+        94: isub
+        95: dup
+        96: istore_0
+        97: iload         6
+        99: iload         9
+       101: iload         9
+       103: imul
+       104: bipush        8
+       106: ishr
+       107: imul
+       108: if_icmpge     113
+       111: iconst_1
+       112: ireturn
+       113: iconst_0
+       114: ireturn
+      StackMap: number_of_entries = 1
+        frame_type = 255 offset = 113
+          locals = [ int, int, int, int, int, int, int, int, int, int ]
+          stack = []
+
+  public static final int[] a(int, int, int, int, int, int, int, int);
+    descriptor: (IIIIIIII)[I
+    flags: (0x0019) ACC_PUBLIC, ACC_STATIC, ACC_FINAL
+    Code:
+      stack=6, locals=8, args_size=8
+         0: iload         6
+         2: iload         4
+         4: isub
+         5: istore_0
+         6: iload         7
+         8: iload         5
+        10: isub
+        11: istore_1
+        12: iload_1
+        13: sipush        -350
+        16: imul
+        17: bipush        8
+        19: ishr
+        20: istore_2
+        21: iload_0
+        22: sipush        -15090
+        25: imul
+        26: bipush        8
+        28: ishr
+        29: dup
+        30: istore_3
+        31: iload_2
+        32: isub
+        33: istore        6
+        35: iconst_2
+        36: newarray       int
+        38: astore        7
+        40: iload         6
+        42: ifeq          111
+        45: aload         7
+        47: iconst_0
+        48: iload_3
+        49: sipush        14800
+        52: imul
+        53: iload_2
+        54: iload         4
+        56: imul
+        57: isub
+        58: iload_0
+        59: sipush        -350
+        62: imul
+        63: bipush        8
+        65: ishr
+        66: iload         5
+        68: sipush        7240
+        71: isub
+        72: imul
+        73: iadd
+        74: iload         6
+        76: idiv
+        77: iastore
+        78: aload         7
+        80: iconst_1
+        81: iload_3
+        82: iload         5
+        84: imul
+        85: iload_2
+        86: sipush        7240
+        89: imul
+        90: isub
+        91: iload_1
+        92: sipush        -15090
+        95: imul
+        96: bipush        8
+        98: ishr
+        99: iload         4
+       101: sipush        14800
+       104: isub
+       105: imul
+       106: iadd
+       107: iload         6
+       109: idiv
+       110: iastore
+       111: aload         7
+       113: areturn
+      StackMap: number_of_entries = 1
+        frame_type = 255 offset = 111
+          locals = [ int, int, int, int, int, int, int, class "[I" ]
+          stack = []
+
+  static {};
+    descriptor: ()V
+    flags: (0x0008) ACC_STATIC
+    Code:
+      stack=4, locals=0, args_size=0
+         0: sipush        256
+         3: newarray       short
+         5: dup
+         6: iconst_0
+         7: iconst_0
+         8: sastore
+         9: dup
+        10: iconst_1
+        11: bipush        6
+        13: sastore
+        14: dup
+        15: iconst_2
+        16: bipush        13
+        18: sastore
+        19: dup
+        20: iconst_3
+        21: bipush        19
+        23: sastore
+        24: dup
+        25: iconst_4
+        26: bipush        25
+        28: sastore
+        29: dup
+        30: iconst_5
+        31: bipush        31
+        33: sastore
+        34: dup
+        35: bipush        6
+        37: bipush        38
+        39: sastore
+        40: dup
+        41: bipush        7
+        43: bipush        44
+        45: sastore
+        46: dup
+        47: bipush        8
+        49: bipush        50
+        51: sastore
+        52: dup
+        53: bipush        9
+        55: bipush        56
+        57: sastore
+        58: dup
+        59: bipush        10
+        61: bipush        62
+        63: sastore
+        64: dup
+        65: bipush        11
+        67: bipush        68
+        69: sastore
+        70: dup
+        71: bipush        12
+        73: bipush        74
+        75: sastore
+        76: dup
+        77: bipush        13
+        79: bipush        80
+        81: sastore
+        82: dup
+        83: bipush        14
+        85: bipush        86
+        87: sastore
+        88: dup
+        89: bipush        15
+        91: bipush        92
+        93: sastore
+        94: dup
+        95: bipush        16
+        97: bipush        98
+        99: sastore
+       100: dup
+       101: bipush        17
+       103: bipush        104
+       105: sastore
+       106: dup
+       107: bipush        18
+       109: bipush        109
+       111: sastore
+       112: dup
+       113: bipush        19
+       115: bipush        115
+       117: sastore
+       118: dup
+       119: bipush        20
+       121: bipush        121
+       123: sastore
+       124: dup
+       125: bipush        21
+       127: bipush        126
+       129: sastore
+       130: dup
+       131: bipush        22
+       133: sipush        132
+       136: sastore
+       137: dup
+       138: bipush        23
+       140: sipush        137
+       143: sastore
+       144: dup
+       145: bipush        24
+       147: sipush        142
+       150: sastore
+       151: dup
+       152: bipush        25
+       154: sipush        147
+       157: sastore
+       158: dup
+       159: bipush        26
+       161: sipush        152
+       164: sastore
+       165: dup
+       166: bipush        27
+       168: sipush        157
+       171: sastore
+       172: dup
+       173: bipush        28
+       175: sipush        162
+       178: sastore
+       179: dup
+       180: bipush        29
+       182: sipush        167
+       185: sastore
+       186: dup
+       187: bipush        30
+       189: sipush        172
+       192: sastore
+       193: dup
+       194: bipush        31
+       196: sipush        177
+       199: sastore
+       200: dup
+       201: bipush        32
+       203: sipush        181
+       206: sastore
+       207: dup
+       208: bipush        33
+       210: sipush        185
+       213: sastore
+       214: dup
+       215: bipush        34
+       217: sipush        190
+       220: sastore
+       221: dup
+       222: bipush        35
+       224: sipush        194
+       227: sastore
+       228: dup
+       229: bipush        36
+       231: sipush        198
+       234: sastore
+       235: dup
+       236: bipush        37
+       238: sipush        202
+       241: sastore
+       242: dup
+       243: bipush        38
+       245: sipush        206
+       248: sastore
+       249: dup
+       250: bipush        39
+       252: sipush        209
+       255: sastore
+       256: dup
+       257: bipush        40
+       259: sipush        213
+       262: sastore
+       263: dup
+       264: bipush        41
+       266: sipush        216
+       269: sastore
+       270: dup
+       271: bipush        42
+       273: sipush        220
+       276: sastore
+       277: dup
+       278: bipush        43
+       280: sipush        223
+       283: sastore
+       284: dup
+       285: bipush        44
+       287: sipush        226
+       290: sastore
+       291: dup
+       292: bipush        45
+       294: sipush        229
+       297: sastore
+       298: dup
+       299: bipush        46
+       301: sipush        231
+       304: sastore
+       305: dup
+       306: bipush        47
+       308: sipush        234
+       311: sastore
+       312: dup
+       313: bipush        48
+       315: sipush        237
+       318: sastore
+       319: dup
+       320: bipush        49
+       322: sipush        239
+       325: sastore
+       326: dup
+       327: bipush        50
+       329: sipush        241
+       332: sastore
+       333: dup
+       334: bipush        51
+       336: sipush        243
+       339: sastore
+       340: dup
+       341: bipush        52
+       343: sipush        245
+       346: sastore
+       347: dup
+       348: bipush        53
+       350: sipush        247
+       353: sastore
+       354: dup
+       355: bipush        54
+       357: sipush        248
+       360: sastore
+       361: dup
+       362: bipush        55
+       364: sipush        250
+       367: sastore
+       368: dup
+       369: bipush        56
+       371: sipush        251
+       374: sastore
+       375: dup
+       376: bipush        57
+       378: sipush        252
+       381: sastore
+       382: dup
+       383: bipush        58
+       385: sipush        253
+       388: sastore
+       389: dup
+       390: bipush        59
+       392: sipush        254
+       395: sastore
+       396: dup
+       397: bipush        60
+       399: sipush        255
+       402: sastore
+       403: dup
+       404: bipush        61
+       406: sipush        255
+       409: sastore
+       410: dup
+       411: bipush        62
+       413: sipush        256
+       416: sastore
+       417: dup
+       418: bipush        63
+       420: sipush        256
+       423: sastore
+       424: dup
+       425: bipush        64
+       427: sipush        256
+       430: sastore
+       431: dup
+       432: bipush        65
+       434: sipush        256
+       437: sastore
+       438: dup
+       439: bipush        66
+       441: sipush        256
+       444: sastore
+       445: dup
+       446: bipush        67
+       448: sipush        255
+       451: sastore
+       452: dup
+       453: bipush        68
+       455: sipush        255
+       458: sastore
+       459: dup
+       460: bipush        69
+       462: sipush        254
+       465: sastore
+       466: dup
+       467: bipush        70
+       469: sipush        253
+       472: sastore
+       473: dup
+       474: bipush        71
+       476: sipush        252
+       479: sastore
+       480: dup
+       481: bipush        72
+       483: sipush        251
+       486: sastore
+       487: dup
+       488: bipush        73
+       490: sipush        250
+       493: sastore
+       494: dup
+       495: bipush        74
+       497: sipush        248
+       500: sastore
+       501: dup
+       502: bipush        75
+       504: sipush        247
+       507: sastore
+       508: dup
+       509: bipush        76
+       511: sipush        245
+       514: sastore
+       515: dup
+       516: bipush        77
+       518: sipush        243
+       521: sastore
+       522: dup
+       523: bipush        78
+       525: sipush        241
+       528: sastore
+       529: dup
+       530: bipush        79
+       532: sipush        239
+       535: sastore
+       536: dup
+       537: bipush        80
+       539: sipush        237
+       542: sastore
+       543: dup
+       544: bipush        81
+       546: sipush        234
+       549: sastore
+       550: dup
+       551: bipush        82
+       553: sipush        231
+       556: sastore
+       557: dup
+       558: bipush        83
+       560: sipush        229
+       563: sastore
+       564: dup
+       565: bipush        84
+       567: sipush        226
+       570: sastore
+       571: dup
+       572: bipush        85
+       574: sipush        223
+       577: sastore
+       578: dup
+       579: bipush        86
+       581: sipush        220
+       584: sastore
+       585: dup
+       586: bipush        87
+       588: sipush        216
+       591: sastore
+       592: dup
+       593: bipush        88
+       595: sipush        213
+       598: sastore
+       599: dup
+       600: bipush        89
+       602: sipush        209
+       605: sastore
+       606: dup
+       607: bipush        90
+       609: sipush        206
+       612: sastore
+       613: dup
+       614: bipush        91
+       616: sipush        202
+       619: sastore
+       620: dup
+       621: bipush        92
+       623: sipush        198
+       626: sastore
+       627: dup
+       628: bipush        93
+       630: sipush        194
+       633: sastore
+       634: dup
+       635: bipush        94
+       637: sipush        190
+       640: sastore
+       641: dup
+       642: bipush        95
+       644: sipush        185
+       647: sastore
+       648: dup
+       649: bipush        96
+       651: sipush        181
+       654: sastore
+       655: dup
+       656: bipush        97
+       658: sipush        177
+       661: sastore
+       662: dup
+       663: bipush        98
+       665: sipush        172
+       668: sastore
+       669: dup
+       670: bipush        99
+       672: sipush        167
+       675: sastore
+       676: dup
+       677: bipush        100
+       679: sipush        162
+       682: sastore
+       683: dup
+       684: bipush        101
+       686: sipush        157
+       689: sastore
+       690: dup
+       691: bipush        102
+       693: sipush        152
+       696: sastore
+       697: dup
+       698: bipush        103
+       700: sipush        147
+       703: sastore
+       704: dup
+       705: bipush        104
+       707: sipush        142
+       710: sastore
+       711: dup
+       712: bipush        105
+       714: sipush        137
+       717: sastore
+       718: dup
+       719: bipush        106
+       721: sipush        132
+       724: sastore
+       725: dup
+       726: bipush        107
+       728: bipush        126
+       730: sastore
+       731: dup
+       732: bipush        108
+       734: bipush        121
+       736: sastore
+       737: dup
+       738: bipush        109
+       740: bipush        115
+       742: sastore
+       743: dup
+       744: bipush        110
+       746: bipush        109
+       748: sastore
+       749: dup
+       750: bipush        111
+       752: bipush        104
+       754: sastore
+       755: dup
+       756: bipush        112
+       758: bipush        98
+       760: sastore
+       761: dup
+       762: bipush        113
+       764: bipush        92
+       766: sastore
+       767: dup
+       768: bipush        114
+       770: bipush        86
+       772: sastore
+       773: dup
+       774: bipush        115
+       776: bipush        80
+       778: sastore
+       779: dup
+       780: bipush        116
+       782: bipush        74
+       784: sastore
+       785: dup
+       786: bipush        117
+       788: bipush        68
+       790: sastore
+       791: dup
+       792: bipush        118
+       794: bipush        62
+       796: sastore
+       797: dup
+       798: bipush        119
+       800: bipush        56
+       802: sastore
+       803: dup
+       804: bipush        120
+       806: bipush        50
+       808: sastore
+       809: dup
+       810: bipush        121
+       812: bipush        44
+       814: sastore
+       815: dup
+       816: bipush        122
+       818: bipush        38
+       820: sastore
+       821: dup
+       822: bipush        123
+       824: bipush        31
+       826: sastore
+       827: dup
+       828: bipush        124
+       830: bipush        25
+       832: sastore
+       833: dup
+       834: bipush        125
+       836: bipush        19
+       838: sastore
+       839: dup
+       840: bipush        126
+       842: bipush        13
+       844: sastore
+       845: dup
+       846: bipush        127
+       848: bipush        6
+       850: sastore
+       851: dup
+       852: sipush        128
+       855: iconst_0
+       856: sastore
+       857: dup
+       858: sipush        129
+       861: bipush        -6
+       863: sastore
+       864: dup
+       865: sipush        130
+       868: bipush        -13
+       870: sastore
+       871: dup
+       872: sipush        131
+       875: bipush        -19
+       877: sastore
+       878: dup
+       879: sipush        132
+       882: bipush        -25
+       884: sastore
+       885: dup
+       886: sipush        133
+       889: bipush        -31
+       891: sastore
+       892: dup
+       893: sipush        134
+       896: bipush        -38
+       898: sastore
+       899: dup
+       900: sipush        135
+       903: bipush        -44
+       905: sastore
+       906: dup
+       907: sipush        136
+       910: bipush        -50
+       912: sastore
+       913: dup
+       914: sipush        137
+       917: bipush        -56
+       919: sastore
+       920: dup
+       921: sipush        138
+       924: bipush        -62
+       926: sastore
+       927: dup
+       928: sipush        139
+       931: bipush        -68
+       933: sastore
+       934: dup
+       935: sipush        140
+       938: bipush        -74
+       940: sastore
+       941: dup
+       942: sipush        141
+       945: bipush        -80
+       947: sastore
+       948: dup
+       949: sipush        142
+       952: bipush        -86
+       954: sastore
+       955: dup
+       956: sipush        143
+       959: bipush        -92
+       961: sastore
+       962: dup
+       963: sipush        144
+       966: bipush        -98
+       968: sastore
+       969: dup
+       970: sipush        145
+       973: bipush        -104
+       975: sastore
+       976: dup
+       977: sipush        146
+       980: bipush        -109
+       982: sastore
+       983: dup
+       984: sipush        147
+       987: bipush        -115
+       989: sastore
+       990: dup
+       991: sipush        148
+       994: bipush        -121
+       996: sastore
+       997: dup
+       998: sipush        149
+      1001: bipush        -126
+      1003: sastore
+      1004: dup
+      1005: sipush        150
+      1008: sipush        -132
+      1011: sastore
+      1012: dup
+      1013: sipush        151
+      1016: sipush        -137
+      1019: sastore
+      1020: dup
+      1021: sipush        152
+      1024: sipush        -142
+      1027: sastore
+      1028: dup
+      1029: sipush        153
+      1032: sipush        -147
+      1035: sastore
+      1036: dup
+      1037: sipush        154
+      1040: sipush        -152
+      1043: sastore
+      1044: dup
+      1045: sipush        155
+      1048: sipush        -157
+      1051: sastore
+      1052: dup
+      1053: sipush        156
+      1056: sipush        -162
+      1059: sastore
+      1060: dup
+      1061: sipush        157
+      1064: sipush        -167
+      1067: sastore
+      1068: dup
+      1069: sipush        158
+      1072: sipush        -172
+      1075: sastore
+      1076: dup
+      1077: sipush        159
+      1080: sipush        -177
+      1083: sastore
+      1084: dup
+      1085: sipush        160
+      1088: sipush        -181
+      1091: sastore
+      1092: dup
+      1093: sipush        161
+      1096: sipush        -185
+      1099: sastore
+      1100: dup
+      1101: sipush        162
+      1104: sipush        -190
+      1107: sastore
+      1108: dup
+      1109: sipush        163
+      1112: sipush        -194
+      1115: sastore
+      1116: dup
+      1117: sipush        164
+      1120: sipush        -198
+      1123: sastore
+      1124: dup
+      1125: sipush        165
+      1128: sipush        -202
+      1131: sastore
+      1132: dup
+      1133: sipush        166
+      1136: sipush        -206
+      1139: sastore
+      1140: dup
+      1141: sipush        167
+      1144: sipush        -209
+      1147: sastore
+      1148: dup
+      1149: sipush        168
+      1152: sipush        -213
+      1155: sastore
+      1156: dup
+      1157: sipush        169
+      1160: sipush        -216
+      1163: sastore
+      1164: dup
+      1165: sipush        170
+      1168: sipush        -220
+      1171: sastore
+      1172: dup
+      1173: sipush        171
+      1176: sipush        -223
+      1179: sastore
+      1180: dup
+      1181: sipush        172
+      1184: sipush        -226
+      1187: sastore
+      1188: dup
+      1189: sipush        173
+      1192: sipush        -229
+      1195: sastore
+      1196: dup
+      1197: sipush        174
+      1200: sipush        -231
+      1203: sastore
+      1204: dup
+      1205: sipush        175
+      1208: sipush        -234
+      1211: sastore
+      1212: dup
+      1213: sipush        176
+      1216: sipush        -237
+      1219: sastore
+      1220: dup
+      1221: sipush        177
+      1224: sipush        -239
+      1227: sastore
+      1228: dup
+      1229: sipush        178
+      1232: sipush        -241
+      1235: sastore
+      1236: dup
+      1237: sipush        179
+      1240: sipush        -243
+      1243: sastore
+      1244: dup
+      1245: sipush        180
+      1248: sipush        -245
+      1251: sastore
+      1252: dup
+      1253: sipush        181
+      1256: sipush        -247
+      1259: sastore
+      1260: dup
+      1261: sipush        182
+      1264: sipush        -248
+      1267: sastore
+      1268: dup
+      1269: sipush        183
+      1272: sipush        -250
+      1275: sastore
+      1276: dup
+      1277: sipush        184
+      1280: sipush        -251
+      1283: sastore
+      1284: dup
+      1285: sipush        185
+      1288: sipush        -252
+      1291: sastore
+      1292: dup
+      1293: sipush        186
+      1296: sipush        -253
+      1299: sastore
+      1300: dup
+      1301: sipush        187
+      1304: sipush        -254
+      1307: sastore
+      1308: dup
+      1309: sipush        188
+      1312: sipush        -255
+      1315: sastore
+      1316: dup
+      1317: sipush        189
+      1320: sipush        -255
+      1323: sastore
+      1324: dup
+      1325: sipush        190
+      1328: sipush        -256
+      1331: sastore
+      1332: dup
+      1333: sipush        191
+      1336: sipush        -256
+      1339: sastore
+      1340: dup
+      1341: sipush        192
+      1344: sipush        -256
+      1347: sastore
+      1348: dup
+      1349: sipush        193
+      1352: sipush        -256
+      1355: sastore
+      1356: dup
+      1357: sipush        194
+      1360: sipush        -256
+      1363: sastore
+      1364: dup
+      1365: sipush        195
+      1368: sipush        -255
+      1371: sastore
+      1372: dup
+      1373: sipush        196
+      1376: sipush        -255
+      1379: sastore
+      1380: dup
+      1381: sipush        197
+      1384: sipush        -254
+      1387: sastore
+      1388: dup
+      1389: sipush        198
+      1392: sipush        -253
+      1395: sastore
+      1396: dup
+      1397: sipush        199
+      1400: sipush        -252
+      1403: sastore
+      1404: dup
+      1405: sipush        200
+      1408: sipush        -251
+      1411: sastore
+      1412: dup
+      1413: sipush        201
+      1416: sipush        -250
+      1419: sastore
+      1420: dup
+      1421: sipush        202
+      1424: sipush        -248
+      1427: sastore
+      1428: dup
+      1429: sipush        203
+      1432: sipush        -247
+      1435: sastore
+      1436: dup
+      1437: sipush        204
+      1440: sipush        -245
+      1443: sastore
+      1444: dup
+      1445: sipush        205
+      1448: sipush        -243
+      1451: sastore
+      1452: dup
+      1453: sipush        206
+      1456: sipush        -241
+      1459: sastore
+      1460: dup
+      1461: sipush        207
+      1464: sipush        -239
+      1467: sastore
+      1468: dup
+      1469: sipush        208
+      1472: sipush        -237
+      1475: sastore
+      1476: dup
+      1477: sipush        209
+      1480: sipush        -234
+      1483: sastore
+      1484: dup
+      1485: sipush        210
+      1488: sipush        -231
+      1491: sastore
+      1492: dup
+      1493: sipush        211
+      1496: sipush        -229
+      1499: sastore
+      1500: dup
+      1501: sipush        212
+      1504: sipush        -226
+      1507: sastore
+      1508: dup
+      1509: sipush        213
+      1512: sipush        -223
+      1515: sastore
+      1516: dup
+      1517: sipush        214
+      1520: sipush        -220
+      1523: sastore
+      1524: dup
+      1525: sipush        215
+      1528: sipush        -216
+      1531: sastore
+      1532: dup
+      1533: sipush        216
+      1536: sipush        -213
+      1539: sastore
+      1540: dup
+      1541: sipush        217
+      1544: sipush        -209
+      1547: sastore
+      1548: dup
+      1549: sipush        218
+      1552: sipush        -206
+      1555: sastore
+      1556: dup
+      1557: sipush        219
+      1560: sipush        -202
+      1563: sastore
+      1564: dup
+      1565: sipush        220
+      1568: sipush        -198
+      1571: sastore
+      1572: dup
+      1573: sipush        221
+      1576: sipush        -194
+      1579: sastore
+      1580: dup
+      1581: sipush        222
+      1584: sipush        -190
+      1587: sastore
+      1588: dup
+      1589: sipush        223
+      1592: sipush        -185
+      1595: sastore
+      1596: dup
+      1597: sipush        224
+      1600: sipush        -181
+      1603: sastore
+      1604: dup
+      1605: sipush        225
+      1608: sipush        -177
+      1611: sastore
+      1612: dup
+      1613: sipush        226
+      1616: sipush        -172
+      1619: sastore
+      1620: dup
+      1621: sipush        227
+      1624: sipush        -167
+      1627: sastore
+      1628: dup
+      1629: sipush        228
+      1632: sipush        -162
+      1635: sastore
+      1636: dup
+      1637: sipush        229
+      1640: sipush        -157
+      1643: sastore
+      1644: dup
+      1645: sipush        230
+      1648: sipush        -152
+      1651: sastore
+      1652: dup
+      1653: sipush        231
+      1656: sipush        -147
+      1659: sastore
+      1660: dup
+      1661: sipush        232
+      1664: sipush        -142
+      1667: sastore
+      1668: dup
+      1669: sipush        233
+      1672: sipush        -137
+      1675: sastore
+      1676: dup
+      1677: sipush        234
+      1680: sipush        -132
+      1683: sastore
+      1684: dup
+      1685: sipush        235
+      1688: bipush        -126
+      1690: sastore
+      1691: dup
+      1692: sipush        236
+      1695: bipush        -121
+      1697: sastore
+      1698: dup
+      1699: sipush        237
+      1702: bipush        -115
+      1704: sastore
+      1705: dup
+      1706: sipush        238
+      1709: bipush        -109
+      1711: sastore
+      1712: dup
+      1713: sipush        239
+      1716: bipush        -104
+      1718: sastore
+      1719: dup
+      1720: sipush        240
+      1723: bipush        -98
+      1725: sastore
+      1726: dup
+      1727: sipush        241
+      1730: bipush        -92
+      1732: sastore
+      1733: dup
+      1734: sipush        242
+      1737: bipush        -86
+      1739: sastore
+      1740: dup
+      1741: sipush        243
+      1744: bipush        -80
+      1746: sastore
+      1747: dup
+      1748: sipush        244
+      1751: bipush        -74
+      1753: sastore
+      1754: dup
+      1755: sipush        245
+      1758: bipush        -68
+      1760: sastore
+      1761: dup
+      1762: sipush        246
+      1765: bipush        -62
+      1767: sastore
+      1768: dup
+      1769: sipush        247
+      1772: bipush        -56
+      1774: sastore
+      1775: dup
+      1776: sipush        248
+      1779: bipush        -50
+      1781: sastore
+      1782: dup
+      1783: sipush        249
+      1786: bipush        -44
+      1788: sastore
+      1789: dup
+      1790: sipush        250
+      1793: bipush        -38
+      1795: sastore
+      1796: dup
+      1797: sipush        251
+      1800: bipush        -31
+      1802: sastore
+      1803: dup
+      1804: sipush        252
+      1807: bipush        -25
+      1809: sastore
+      1810: dup
+      1811: sipush        253
+      1814: bipush        -19
+      1816: sastore
+      1817: dup
+      1818: sipush        254
+      1821: bipush        -13
+      1823: sastore
+      1824: dup
+      1825: sipush        255
+      1828: bipush        -6
+      1830: sastore
+      1831: putstatic     #18                 // Field a:[S
+      1834: invokestatic  #24                 // Method java/lang/System.currentTimeMillis:()J
+      1837: putstatic     #17                 // Field a:J
+      1840: return
+}
