@@ -1,5 +1,11 @@
 # PES Java - estrutura pré-build reconstruída
 
+Projeto de pesquisa com código Java preservado e notas de compilação.
+
+**Arquivos principais**
+
+- [prebuild/](<prebuild/>)
+
 Reconstrução em formato de projeto para continuidade de desenvolvimento reverso.
 
 ## Entregas
