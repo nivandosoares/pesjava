@@ -2,6 +2,12 @@
 
 Projeto de pesquisa com código Java preservado e notas de compilação.
 
+## PES 2010
+
+[Engenharia reversa, runtime Web e edição 2026/27](docs/pes-2010/README.md)
+
+## PES 2008
+
 **Arquivos principais**
 
 - [prebuild/](<prebuild/>)
