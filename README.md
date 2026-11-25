@@ -6,6 +6,10 @@ Projeto de pesquisa com código Java preservado e notas de compilação.
 
 [Artigo ilustrado — Do Java de bolso ao navegador](docs/pes-2010/Artigo.md) · [Documentação técnica](docs/pes-2010/README.md)
 
+## PES 6 para Xbox 360
+
+[CLI de nomes e escudos](tools/pes6-x360/README.md) · [How to update your PES 6 Option File on Xbox 360](docs/pes-6-xbox-360/option-file.md)
+
 ## PES 2008
 
 **Arquivos principais**
