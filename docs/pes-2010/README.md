@@ -2,6 +2,7 @@
 
 Estudo da edição **PES 2010, versão 1.0.0, build 2066**, declarada como MIDP 2.0 e CLDC 1.0. A área de trabalho do projeto contém a análise, o runtime próprio e uma edição local da temporada 2026/27. Este diretório reúne o material de referência e os procedimentos. Os caminhos dos comandos de execução apontam para a estrutura dessa área de trabalho.
 
+- [Artigo ilustrado — Do Java de bolso ao navegador](Artigo.md)
 - [Guia do jogo e do motor](Guia.md)
 - [Índice das classes e métodos](Indice-do-codigo.md)
 - [Estados dos menus e da partida](Estados-da-interface.md)
